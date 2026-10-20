@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying paper and the archived code release when their identifiers are available."
+type: software
+title: "Synapse-seq analysis code"
+authors:
+  - family-names: Kathuria
+    given-names: Karan R.
+repository-code: "https://github.com/krkathuria/Synapse-seq_SpleenOrganoids_2026"
+abstract: "Analysis code accompanying Synapse-seq reveals cytotoxic CD4+ T cell suppression of human antibody responses."
