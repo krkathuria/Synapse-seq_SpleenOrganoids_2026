@@ -2,17 +2,17 @@
 
 Analysis code accompanying **Synapse-seq reveals cytotoxic CD4+ T cell suppression of human antibody responses**, Kathuria et al.
 
-Synapse-seq couples index sorting of interacting cells with single-cell RNA sequencing to study T–B cell interactions. This repository contains study notebooks for transcriptomic preprocessing, clustering, antigen-binding cell-pair analyses, immune-receptor integration, and B-cell receptor somatic hypermutation analyses.
+Synapse-seq couples index sorting of interacting cells with single-cell RNA sequencing to study T–B cell interactions. The planned code release covers study notebooks for transcriptomic preprocessing, clustering, antigen-binding cell-pair analyses, immune-receptor integration, and B-cell receptor somatic hypermutation analyses.
 
 ## Status
 
-This is a private repository being prepared for the paper's code release. It contains an initial source-code snapshot; it is not yet a versioned, end-to-end reproduction release. Notebook outputs have been cleared, and the analysis source text has been preserved. Some notebooks contain exploratory sections and original local paths. The final paper DOI, archived code DOI, and license will be added before public release.
+This is a private repository being prepared for the paper's code release. Only setup documentation is uploaded. An initial source-code snapshot is prepared locally and will be uploaded after author review. This is not yet a versioned, end-to-end reproduction release. Notebook outputs have been cleared, and the analysis source text has been preserved. Some notebooks contain exploratory sections and original local paths. The final paper DOI, archived code DOI, and license will be added before public release.
 
 ## Repository contents
 
-- [`analysis/`](analysis/): Python notebooks and R scripts, with a workflow guide.
+- [`analysis/`](analysis/): reserved for reviewed Python notebooks and R scripts; code upload is pending.
 - [`environment.yml`](environment.yml): Python environment specification using recorded or author-confirmed core versions. Additional dependencies are not fully pinned.
-- [`SOURCE_MANIFEST.tsv`](SOURCE_MANIFEST.tsv): source-file provenance and SHA-256 checksums.
+- [`SOURCE_MANIFEST.tsv`](SOURCE_MANIFEST.tsv): inventory of locally prepared code awaiting review, with source-file provenance and SHA-256 checksums.
 - [`CITATION.cff`](CITATION.cff): machine-readable project citation.
 - [`RELEASE_CHECKLIST.md`](RELEASE_CHECKLIST.md): remaining preparation steps for the public release.
 
@@ -36,6 +36,8 @@ The recorded Python version is 3.11.8, with Scanpy 1.9.4, harmonypy 0.0.9, and l
 
 ## Running the analyses
 
+The instructions below are for the planned code release; analysis files have not yet been uploaded.
+
 1. Obtain the inputs for the workflow of interest and work from copies of the source data.
 2. Open the relevant notebook or R script from [`analysis/README.md`](analysis/README.md).
 3. Set the input and output paths to your local directories. The source snapshot retains the original paths, including individual file paths outside the main `path_data` variable.
@@ -49,7 +51,7 @@ Expected outputs include filtered and normalized AnnData objects, cluster annota
 - Original analysis code and parameter values were preserved when assembling this snapshot; stored notebook outputs and execution metadata were removed.
 - The saved preprocessing workflows have dataset-specific QC cutoffs. These are being reconciled with the final Methods before release; do not assume one common ERCC threshold for all datasets.
 - File integrity, notebook structure, and absence of stored outputs were checked. The full analyses were not rerun during repository preparation.
-- See the source manifest for the exact files included. This initial snapshot is not a claim that every cell corresponds to a final published panel.
+- See the source manifest for the exact files prepared locally. This initial snapshot is not a claim that every cell corresponds to a final published panel.
 
 ## Citation
 
