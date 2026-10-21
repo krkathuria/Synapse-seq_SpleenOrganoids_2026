@@ -6,7 +6,7 @@ The prepared Doublets 2/4 bundle contains **7,829 files (14,272,895,072 bytes)**
 
 ## Obtain and verify inputs
 
-The archive is prepared locally. **A public download location has not yet been assigned.** GEO accession GSE351507 is the sequencing-data accession and must not be treated as a verified substitute for this auxiliary input bundle. A GitHub clone alone cannot execute these analyses until the separate data archive is supplied.
+The archive is prepared and is being uploaded to a GitHub release. **The complete download is not yet available.** GEO accession GSE351507 is the sequencing-data accession and must not be treated as a verified substitute for this auxiliary input bundle. A GitHub clone alone cannot execute these analyses until the separate data archive is supplied.
 
 Extract the data archive at the repository root, preserving its `data/` layout. Before running anything:
 
@@ -22,7 +22,7 @@ This reads and hashes every manifest-listed file, and exits unsuccessfully if an
 python scripts/build_data_bundle.py ../Synapse-seq_Doublets_data_20261020.tar.gz
 ```
 
-The builder first verifies all input hashes, packages only explicitly listed files, preserves relative paths, and writes a SHA-256 sidecar for the compressed archive. It excludes operating-system metadata, caches, unlisted intermediates, and generated figures. The release is separate from the code repository because of its size. Select a persistent data-repository destination, upload the archive and checksum, then add the exact download URL here.
+The builder first verifies all input hashes, packages only explicitly listed files, preserves relative paths, and writes a SHA-256 sidecar for the compressed archive. It excludes operating-system metadata, caches, unlisted intermediates, and generated figures. The release is separate from the code repository because of its size. The GitHub release link will be added when all uploads and checksum checks finish.
 
 ## Included starting points
 
@@ -32,3 +32,5 @@ The builder first verifies all input hashes, packages only explicitly listed fil
 - Preserved manuscript expression/coordinate checkpoints, reference SHM tables, and saved individual plot exports.
 
 FASTQs, alignment reference indices, and a complete BASIC/IgBLAST/Change-O reconstruction pipeline are outside this bundle. The paired `UniqueClones` table is a supplied input. These boundaries must remain explicit in any data availability statement.
+
+For the tested numerical environment and full-analysis commands, see `ENVIRONMENT.md` and `analysis/README.md`.

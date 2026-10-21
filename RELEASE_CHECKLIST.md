@@ -13,8 +13,9 @@
 - [x] Install the release Python dependencies in a clean environment and rerun all five figure sections.
 - [x] Resolve the non-spheromer Sp46 partition difference with an explicit subset copy before PCA; verify all five fresh partitions and named labels against the manuscript objects.
 - [x] Validate all included sequencing panels against the current assembled manuscript and remove obsolete or exploratory output sections.
-- [x] Create a separate public README-only information page while retaining the analysis repository as private.
+- [x] Make the main analysis repository public at the author's request; use that single repository in README and STAR Methods.
 - [ ] Atlas, SLE, and other non-sequencing workflows are outside the current author-approved scope.
 - [ ] Select a license and final citation/archive identifiers.
 - [ ] Publish the large data archive at a persistent download location and add its URL.
-- [ ] Finalize the repository's public release and data availability statement.
+- [x] Make the validated code publicly accessible.
+- [ ] Finish and publish the complete verified data release.

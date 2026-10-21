@@ -16,8 +16,8 @@ All five final figure sections passed independently, and all 41 exports from the
 
 ## Data and distribution
 
-The auxiliary archive contains all 7,829 manifest-listed files required by the retained count-matrix/AIRR workflows. Every archive member was read back and verified, with no missing, extra, duplicate, or mismatched files. The archive is 11,720,414,184 bytes, SHA-256 45261b520de63aaa5921050546dd3b8659e2c183212ce16bb29f45cc3aceb262. Private GitHub release upload is still in progress; it is not yet a complete downloadable bundle.
+The auxiliary archive contains all 7,829 manifest-listed files required by the retained count-matrix/AIRR workflows. Every archive member was read back and verified, with no missing, extra, duplicate, or mismatched files. The archive is 11,720,414,184 bytes, SHA-256 45261b520de63aaa5921050546dd3b8659e2c183212ce16bb29f45cc3aceb262. GitHub release upload is still in progress; it is not yet a complete downloadable bundle.
 
-The analysis repository remains private. A separate public repository contains only a study-information README. STAR Methods links both repositories. A complete upstream FASTQ pipeline, a fresh R installation, other operating systems, and final public release remain outside this validation.
+The analysis repository is public. STAR Methods links this repository. A complete upstream FASTQ pipeline, a fresh R installation, other operating systems, remain outside this validation.
 
 Exact fresh clustering requires the tested numerical binaries in `ENVIRONMENT.md`; the same SciPy version installed from an all-pip wheel failed Sp55 membership validation. No scientific parameters or source calculations were altered to resolve this environment issue.
