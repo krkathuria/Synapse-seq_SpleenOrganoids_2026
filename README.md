@@ -13,5 +13,3 @@ Code contact: [Karan R. Kathuria](https://github.com/krkathuria). Study lead con
 ## License
 
 A license remains to be selected with the authors. No open-source license has yet been granted.
-
-Public information page (README only): [https://github.com/krkathuria/Synapse-seq_SpleenOrganoids_2026-info](https://github.com/krkathuria/Synapse-seq_SpleenOrganoids_2026-info). This analysis repository is public; the auxiliary data upload is in progress.
