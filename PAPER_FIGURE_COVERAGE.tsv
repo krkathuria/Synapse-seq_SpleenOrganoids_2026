@@ -1,0 +1,13 @@
+manuscript_panel_group	included_workflow	verification_scope	remaining_requirement
+Figure 1A-B	None	Not reproduced by this repository	Schematic and antibody-assay source data and analysis
+Figure 1C-D	None	Not reproduced by this repository	Tonsil atlas and day-0/day-28 spleen sequencing analysis and inputs
+Figure 2A-C	None	Not reproduced by this repository	Imaging and FlowJo source files and assembly
+Figure 2D-H	Doublets_4_Clustering_Sp55.ipynb	Individual saved plot exports compared; assembled panels not validated	Final manuscript layout and panel-level comparison
+Figure 3A-H	None	Not reproduced by this repository	FlowJo and Prism projects; antibody-assay source data; schematic
+Figure 4A	None	Not reproduced by this repository	Molecular graphics and schematic sources
+Figure 4B-G	Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts.ipynb	Individual saved plot exports compared; violin jitter differs	Final manuscript layout and panel-level comparison
+Figure 4H-J	None	Not reproduced by this repository	Reporter and antibody-binding assay source data and analysis; schematic
+Figure 5A-K	None	Not reproduced by this repository	FlowJo and Prism projects; antibody-assay source data and statistical analyses; schematics
+Figure 6A-E	None	Not reproduced by this repository	Nehar-Belaid SLE reanalysis code and input objects
+Supplementary sequencing panels	All five clustering notebooks	54 generated files; 51 have saved reference filenames; see validation/plot_comparison.json	Exact mapping to current supplementary panel lettering and assembled layouts
+Supplementary non-sequencing panels	None	Not reproduced by this repository	Flow cytometry; microscopy; assay and atlas source projects and analyses

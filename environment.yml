@@ -14,14 +14,17 @@ dependencies:
       - statsmodels==0.14.0
       - umap-learn==0.5.3
       - pynndescent==0.5.10
-      - igraph==0.11.9
+      - igraph==0.10.6
       - harmonypy==0.0.9
       - leidenalg==0.10.1
-      - matplotlib
-      - seaborn
+      - matplotlib==3.7.3
+      - seaborn==0.12.2
       - regex
-      - scirpy
-      - gseapy
-      - biopython
-      - python-Levenshtein
-      - jupyterlab
+      - statannotations==0.7.2
+      - openpyxl==3.1.2
+      - numba==0.57.1
+      - llvmlite==0.40.1
+      - threadpoolctl
+      - ipython==8.15.0
+      - nbformat==5.9.2
+      - jupyterlab==4.0.5

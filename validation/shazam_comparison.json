@@ -1,0 +1,50 @@
+{
+  "allcells_outfmt_immcantation_db-pass_parse-select_clone-pass_germ-pass_Formatted_withSHM_VDJRegions.tsv": {
+    "reference_shape": [
+      6308,
+      70
+    ],
+    "generated_shape": [
+      6308,
+      70
+    ],
+    "same_sequence_ids": true,
+    "mutation_columns": [
+      "mu_freq_cdr1_r",
+      "mu_freq_cdr1_s",
+      "mu_freq_cdr2_r",
+      "mu_freq_cdr2_s",
+      "mu_freq_cdr3_r",
+      "mu_freq_cdr3_s",
+      "mu_freq_fwr1_r",
+      "mu_freq_fwr1_s",
+      "mu_freq_fwr2_r",
+      "mu_freq_fwr2_s",
+      "mu_freq_fwr3_r",
+      "mu_freq_fwr3_s",
+      "mu_freq_fwr4_r",
+      "mu_freq_fwr4_s"
+    ],
+    "mutation_values_match": true,
+    "max_difference": 0.0
+  },
+  "allcells_outfmt_immcantation_db-pass_parse-select_clone-pass_germ-pass_Formatted_withSHM.tsv": {
+    "reference_shape": [
+      6308,
+      60
+    ],
+    "generated_shape": [
+      6308,
+      60
+    ],
+    "same_sequence_ids": true,
+    "mutation_columns": [
+      "mu_freq_cdr_r",
+      "mu_freq_cdr_s",
+      "mu_freq_fwr_r",
+      "mu_freq_fwr_s"
+    ],
+    "mutation_values_match": true,
+    "max_difference": 0.0
+  }
+}

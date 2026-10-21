@@ -1,0 +1,224 @@
+{
+  "notebook": "Doublets_2_Step1_PreProcessing_halveSingletReads_with_DoubletScores_only_HugoGeneSymbols.ipynb",
+  "source_sha256": "e0cf7165c7ff2c98607f4fb72c426cba80982ebcc4bf3ae17d16d2914fa06511",
+  "mode": "full_notebook_with_explicit_checkpoint_figure_section",
+  "status": "passed",
+  "cells": [
+    {
+      "cell": 3,
+      "seconds": 0.0,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 4,
+      "seconds": 3.704,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 5,
+      "seconds": 4.076,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 7,
+      "seconds": 11.096,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 8,
+      "seconds": 163.151,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 10,
+      "seconds": 15.61,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 11,
+      "seconds": 0.016,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 12,
+      "seconds": 0.001,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 14,
+      "seconds": 1.402,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 16,
+      "seconds": 0.153,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 18,
+      "seconds": 0.23,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 19,
+      "seconds": 0.06,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 20,
+      "seconds": 1.712,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 21,
+      "seconds": 0.189,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 22,
+      "seconds": 0.181,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 23,
+      "seconds": 0.068,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 24,
+      "seconds": 0.177,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 25,
+      "seconds": 1.441,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 26,
+      "seconds": 0.006,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 28,
+      "seconds": 0.004,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 29,
+      "seconds": 0.165,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 30,
+      "seconds": 0.003,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 31,
+      "seconds": 0.483,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 32,
+      "seconds": 0.001,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 33,
+      "seconds": 12.389,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 34,
+      "seconds": 0.947,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 35,
+      "seconds": 0.001,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 37,
+      "seconds": 0.305,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 39,
+      "seconds": 0.717,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 41,
+      "seconds": 0.001,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 42,
+      "seconds": 1.201,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 43,
+      "seconds": 0.001,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 44,
+      "seconds": 1.069,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 45,
+      "seconds": 0.003,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 46,
+      "seconds": 0.812,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 48,
+      "seconds": 0.218,
+      "status": "passed",
+      "error": null
+    }
+  ]
+}

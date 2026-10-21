@@ -1,0 +1,56 @@
+{
+  "notebook": "Doublets_4_Step2_add_BCR_TCR.ipynb",
+  "source_sha256": "60928e0a08f6517c539b925ee04685d3768c3b80b303f8ff0e8ccd0a10e74f0f",
+  "mode": "full_notebook_with_explicit_checkpoint_figure_section",
+  "status": "passed",
+  "cells": [
+    {
+      "cell": 3,
+      "seconds": 0.001,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 4,
+      "seconds": 3.091,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 5,
+      "seconds": 2.17,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 7,
+      "seconds": 0.403,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 9,
+      "seconds": 0.124,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 11,
+      "seconds": 21.568,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 12,
+      "seconds": 0.627,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 14,
+      "seconds": 13.618,
+      "status": "passed",
+      "error": null
+    }
+  ]
+}

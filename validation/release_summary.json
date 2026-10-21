@@ -1,0 +1,19 @@
+{
+  "archive_filename": "Synapse-seq_Doublets_data_20261020.tar.gz",
+  "archive_sha256": "45261b520de63aaa5921050546dd3b8659e2c183212ce16bb29f45cc3aceb262",
+  "archive_bytes": 11720414184,
+  "data_files": 7829,
+  "uncompressed_file_bytes": 14272895072,
+  "all_archive_contents_verified_against_manifest": true,
+  "public_data_download_available": false,
+  "fresh_python_install_passed": true,
+  "pip_check_passed": true,
+  "python_platform": "macOS ARM64 / Python 3.11.8",
+  "full_original_environment_workflows_passed": 8,
+  "R_SHazaM_passed": true,
+  "all_paper_figures_reproduced": false,
+  "fresh_partitions_matching_reference": 5,
+  "fresh_named_labels_all_identical": true,
+  "fresh_UMAP_coordinates_all_identical": false,
+  "Sp46_full_notebook_clean_environment_passed": true
+}

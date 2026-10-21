@@ -1,0 +1,183 @@
+{
+  "notebook": "Doublets_4_Clustering_Sp55.ipynb",
+  "mode": "preserved_manuscript_checkpoint_figures",
+  "fresh_clustering_executed": false,
+  "status": "passed",
+  "cells": [
+    {
+      "cell": 3,
+      "seconds": 0.025,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 4,
+      "seconds": 0.001,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 5,
+      "seconds": 2.135,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 42,
+      "seconds": 0.528,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 44,
+      "seconds": 0.339,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 45,
+      "seconds": 0.001,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 46,
+      "seconds": 0.001,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 47,
+      "seconds": 0.0,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 49,
+      "seconds": 3.004,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 50,
+      "seconds": 0.35,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 51,
+      "seconds": 0.163,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 52,
+      "seconds": 0.579,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 53,
+      "seconds": 0.041,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 55,
+      "seconds": 0.368,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 56,
+      "seconds": 0.113,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 57,
+      "seconds": 0.047,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 58,
+      "seconds": 0.104,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 59,
+      "seconds": 0.183,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 60,
+      "seconds": 0.593,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 62,
+      "seconds": 0.38,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 63,
+      "seconds": 0.05,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 64,
+      "seconds": 0.021,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 65,
+      "seconds": 0.038,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 66,
+      "seconds": 0.04,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 67,
+      "seconds": 0.043,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 68,
+      "seconds": 0.103,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 69,
+      "seconds": 0.312,
+      "status": "passed",
+      "error": null
+    }
+  ],
+  "source_sha256": "e424e77220e19e53f2441c792ae67cacae18616128293c321093742f1b55cd01",
+  "python": "3.11.8 | packaged by conda-forge | (main, Feb 16 2024, 20:49:36) [Clang 16.0.6 ]",
+  "packages": {
+    "scanpy": "1.9.4",
+    "anndata": "0.9.2",
+    "numpy": "1.24.4",
+    "pandas": "2.1.0",
+    "scipy": "1.11.2",
+    "igraph": "0.10.6",
+    "matplotlib": "3.7.3",
+    "seaborn": "0.12.2",
+    "statannotations": "0.7.2"
+  }
+}

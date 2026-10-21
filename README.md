@@ -1,68 +1,60 @@
 # Synapse-seq
 
-Analysis code accompanying **Synapse-seq reveals cytotoxic CD4+ T cell suppression of human antibody responses**, Kathuria et al.
+Sequencing-analysis source for **Doublets 2 and Doublets 4**, accompanying *Synapse-seq reveals cytotoxic CD4+ T cell suppression of human antibody responses*, Kathuria et al.
 
-Synapse-seq couples index sorting of interacting cells with single-cell RNA sequencing to study T–B cell interactions. The planned code release covers study notebooks for transcriptomic preprocessing, clustering, antigen-binding cell-pair analyses, immune-receptor integration, and B-cell receptor somatic hypermutation analyses.
+## Current validation status
 
-## Status
+The required local inputs have been copied into [`data/`](data/README.md). All five final manuscript figure sections execute successfully from preserved publication checkpoints. **Sp55's clustering issue is resolved.** An explicit copy before PCA restores the partition, and an exact-membership check applies the original labels despite swapped numeric cluster IDs. The author-approved historical 30% ERCC cutoff has been restored for Doublets 2 in both the release code and Methods; it reproduces all 629 manuscript cluster assignments. Doublets 4 retains 20%. Read [`CLUSTERING_DIAGNOSIS.md`](CLUSTERING_DIAGNOSIS.md) and [`VALIDATION_REPORT.md`](VALIDATION_REPORT.md) before running or releasing this collection.
 
-This is a private repository being prepared for the paper's code release. Only setup documentation is uploaded. An initial source-code snapshot is prepared locally and will be uploaded after author review. This is not yet a versioned, end-to-end reproduction release. Notebook outputs have been cleared, and the analysis source text has been preserved. Some notebooks contain exploratory sections and original local paths. The final paper DOI, archived code DOI, and license will be added before public release.
+Source notebooks have cleared outputs and execution counts. Executed copies and logs are saved separately. This repository covers the retained Doublets 2/4 analyses; **it does not completely reproduce all figures in the paper**. See [`PAPER_FIGURE_COVERAGE.tsv`](PAPER_FIGURE_COVERAGE.tsv) for the coverage gaps.
 
-## Repository contents
+The final isolated rerun completed all eight notebooks and the R analysis. After explicitly copying the non-spheromer Sp46 donor subset before PCA, all five freshly computed cluster partitions and named cell assignments match the manuscript references exactly. Expression matrices and variable-gene flags also match within numerical precision. Fresh UMAP coordinates can differ; exact saved layouts are supplied for figure rendering. See [`FINAL_RELEASE_AUDIT.md`](FINAL_RELEASE_AUDIT.md).
 
-- [`analysis/`](analysis/): reserved for reviewed Python notebooks and R scripts; code upload is pending.
-- [`environment.yml`](environment.yml): Python environment specification using recorded or author-confirmed core versions. Additional dependencies are not fully pinned.
-- [`SOURCE_MANIFEST.tsv`](SOURCE_MANIFEST.tsv): inventory of locally prepared code awaiting review, with source-file provenance and SHA-256 checksums.
-- [`CITATION.cff`](CITATION.cff): machine-readable project citation.
-- [`RELEASE_CHECKLIST.md`](RELEASE_CHECKLIST.md): remaining preparation steps for the public release.
+## Contents
 
-## Data
+- [`analysis/README.md`](analysis/README.md): workflow and execution guide.
+- [`data/README.md`](data/README.md): copied input files, reference checkpoints, and provenance.
+- [`VALIDATION_REPORT.md`](VALIDATION_REPORT.md): actual execution and comparison results.
+- [`environment.yml`](environment.yml): recorded dependency versions.
+- [`SOURCE_MANIFEST.tsv`](SOURCE_MANIFEST.tsv): source provenance and current code checksums.
+- [`CITATION.cff`](CITATION.cff): project citation metadata.
+- [`DATA_DISTRIBUTION.md`](DATA_DISTRIBUTION.md): separate data archive and extraction instructions.
+- [`DATA_MANIFEST.tsv`](DATA_MANIFEST.tsv): exact archive inventory and file checksums.
 
-Study sequencing data have been assigned GEO accession [GSE351507](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE351507). Access depends on the repository's release status. This accession should not be assumed to contain every auxiliary input used by the notebooks.
-
-Raw sequencing files, count matrices, processed AnnData objects, flow-cytometry data, and donor-level source data are not stored in this code repository. Notebook inputs include gene-count tables, index-sort/interaction annotations, immune-receptor calls, and processed matrices. Retain the relative directory layout referenced by each notebook when preparing inputs. The complete file-to-accession input map will accompany the final code release.
-
-## Installation
-
-Use a separate Conda environment:
+## Environment
 
 ```bash
 conda env create -f environment.yml
 conda activate synapse-seq
-jupyter lab
 ```
 
-The recorded Python version is 3.11.8, with Scanpy 1.9.4, harmonypy 0.0.9, and leidenalg 0.10.1. The environment specification is a reconstruction of recorded dependencies, not a fully tested lockfile. R scripts additionally use the Immcantation ecosystem; inspect their package imports and installation commands before running them in a dedicated R environment. BASIC, IgBLAST, Change-O, and other upstream command-line tools are separate dependencies where required.
+The original notebook outputs recorded Scanpy 1.9.4 and igraph 0.10.6. Python 3.11.8, harmonypy 0.0.9, and leidenalg 0.10.1 are retained. The release uses statannotations 0.7.2 because the historical 0.5.0 package declares an incompatible Seaborn requirement. The R analysis additionally requires R 4.4.2 with `airr` 1.6.1, `shazam` 1.3.1, and `dplyr` 1.2.0; these are separate from the Python environment. The environment definition is not a cross-platform lockfile.
 
-## Running the analyses
+The Python dependencies were installed successfully into a fresh Python 3.11.8 virtual environment on macOS ARM64, passed `pip check`, and executed all five figure sections. [`requirements-tested-macos-arm64.txt`](requirements-tested-macos-arm64.txt) records every package in that installation. This validates the Python package set on that platform; Conda's environment-creation command itself and other platforms were not tested.
 
-The instructions below are for the planned code release; analysis files have not yet been uploaded.
+## Reproduce the manuscript figure sections
 
-1. Obtain the inputs for the workflow of interest and work from copies of the source data.
-2. Open the relevant notebook or R script from [`analysis/README.md`](analysis/README.md).
-3. Set the input and output paths to your local directories. The source snapshot retains the original paths, including individual file paths outside the main `path_data` variable.
-4. Run the preprocessing and integration steps required by that workflow before running clustering or plotting sections. Some notebooks load saved intermediate files and contain alternative analysis branches; they should be reviewed section by section.
-5. Save processed matrices, tables, and plots outside the tracked source-code directory.
+From the repository root:
 
-Expected outputs include filtered and normalized AnnData objects, cluster annotations, UMAP and gene-expression plots, and immune-receptor/SHM tables. Notebooks may write intermediate files back to their configured data directories. Full runtime and memory requirements have not yet been benchmarked for this release; they depend on dataset size and workflow.
+```bash
+python scripts/verify_data.py
+python analysis/reproduce_manuscript_figures.py
+```
 
-## Reproducibility notes
+This tested command loads the preserved manuscript AnnData objects and executes the final plotting sections of five notebooks. It writes PDFs under `results/<notebook-name>/`, and executed notebooks plus logs under `results/figure_validation/`. It does **not** rerun preprocessing or reclustering, and is not presented as a fresh reconstruction from sequencing reads.
 
-- Original analysis code and parameter values were preserved when assembling this snapshot; stored notebook outputs and execution metadata were removed.
-- The saved preprocessing workflows have dataset-specific QC cutoffs. These are being reconciled with the final Methods before release; do not assume one common ERCC threshold for all datasets.
-- File integrity, notebook structure, and absence of stored outputs were checked. The full analyses were not rerun during repository preparation.
-- See the source manifest for the exact files prepared locally. This initial snapshot is not a claim that every cell corresponds to a final published panel.
+To rerun all eight notebooks and the R calculation in dependency order, use `python analysis/run_full_analysis.py` after extracting an untouched data bundle and installing the R packages. It regenerates intermediate files inside `data/`. To inspect the notebooks interactively, launch Jupyter from `analysis/`. Doublets 2 preprocessing retains ERCC fraction <0.3, and Doublets 4 retains <0.2, matching the corrected Methods. BASIC/IgBLAST/Change-O processing upstream of the supplied tables is not packaged as a complete FASTQ-to-figure workflow. Final plotting cells explicitly reload preserved publication checkpoints even in full-notebook mode; fresh saved clustering objects must be compared separately.
 
-## Citation
+## Data availability
 
-Please cite the accompanying paper when its publication details are available. For the code, cite a versioned release and its archived DOI once issued. The current repository can be identified as:
+Study sequencing data have GEO accession [GSE351507](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE351507). Access depends on its release status. The prepared auxiliary data archive contains 7,829 files and approximately 14.27 GB before compression; its public download location is still pending. A GitHub clone alone cannot run the analyses. The accession should not be assumed to provide every auxiliary file. See [`DATA_DISTRIBUTION.md`](DATA_DISTRIBUTION.md).
 
-> Kathuria, K. R. Synapse-seq analysis code. https://github.com/krkathuria/Synapse-seq_SpleenOrganoids_2026
+## Citation and contact
 
-## Contact
+Please cite the accompanying paper and archived code release when their publication identifiers are available. Repository: [Synapse-seq_SpleenOrganoids_2026](https://github.com/krkathuria/Synapse-seq_SpleenOrganoids_2026).
 
-For code questions, contact Karan R. Kathuria through [GitHub](https://github.com/krkathuria). The study's lead contact is Mark M. Davis (mmdavis@stanford.edu).
+Code contact: [Karan R. Kathuria](https://github.com/krkathuria). Study lead contact: Mark M. Davis (mmdavis@stanford.edu).
 
 ## License
 
-A license has not yet been selected. No open-source license is granted by this private preparation repository; the license will be specified before public release.
+A license remains to be selected with the authors before public release. No open-source license is granted by the current private preparation repository.

@@ -1,0 +1,13 @@
+{
+  "shape": [
+    7600,
+    41763
+  ],
+  "same_cells": true,
+  "same_genes": true,
+  "same_HVG": true,
+  "X_max_difference": 0.0,
+  "X_different_elements": 0,
+  "raw/X_max_difference": 0.0,
+  "raw/X_different_elements": 0
+}

@@ -1,0 +1,136 @@
+[
+  {
+    "file": "Doublets4_7600cells_GeneSymbols_preprocessed_2xDoubletCounts.h5ad",
+    "fresh_shape": [
+      7600,
+      41763
+    ],
+    "reference_shape": [
+      7600,
+      41763
+    ],
+    "same_cell_set": true,
+    "same_gene_order": true,
+    "X_max_difference": 0.0,
+    "raw_X_max_difference": 0.0,
+    "HVG_differences": 0,
+    "expression_and_partition_match": true
+  },
+  {
+    "file": "Doublets_3363cells_GeneSymbols_preprocessed_2xDoubletCounts_wDoubletScores.h5ad",
+    "fresh_shape": [
+      3363,
+      36851
+    ],
+    "reference_shape": [
+      3363,
+      36851
+    ],
+    "same_cell_set": true,
+    "same_gene_order": true,
+    "X_max_difference": 6.17284001691587e-13,
+    "raw_X_max_difference": 0.0,
+    "HVG_differences": 0,
+    "expression_and_partition_match": true
+  },
+  {
+    "file": "Doublets_SP17_629cells_TregB_processed_2xDoubletCounts.h5ad",
+    "fresh_shape": [
+      629,
+      36851
+    ],
+    "reference_shape": [
+      629,
+      36851
+    ],
+    "same_cell_set": true,
+    "same_gene_order": true,
+    "X_max_difference": 5.417888360170764e-13,
+    "raw_X_max_difference": 0.0,
+    "HVG_differences": 0,
+    "cluster_ARI": 1.0,
+    "named_labels_identical": true,
+    "UMAP_max_difference": 0.0,
+    "expression_and_partition_match": true
+  },
+  {
+    "file": "Doublets_SP46_1961cells_processed_2xDoubletCounts_BCR_TCR.h5ad",
+    "fresh_shape": [
+      1961,
+      41763
+    ],
+    "reference_shape": [
+      1961,
+      41763
+    ],
+    "same_cell_set": true,
+    "same_gene_order": true,
+    "X_max_difference": 0.0,
+    "raw_X_max_difference": 0.0,
+    "HVG_differences": 0,
+    "cluster_ARI": 1.0,
+    "named_labels_identical": true,
+    "UMAP_max_difference": 5.747382164001465,
+    "expression_and_partition_match": true
+  },
+  {
+    "file": "Doublets_SP55_2170cells_processed_2xDoubletCounts_BCR_TCR.h5ad",
+    "fresh_shape": [
+      2170,
+      41763
+    ],
+    "reference_shape": [
+      2170,
+      41763
+    ],
+    "same_cell_set": true,
+    "same_gene_order": true,
+    "X_max_difference": 0.0,
+    "raw_X_max_difference": 0.0,
+    "HVG_differences": 0,
+    "cluster_ARI": 1.0,
+    "named_labels_identical": true,
+    "UMAP_max_difference": 9.239542961120605,
+    "expression_and_partition_match": true
+  },
+  {
+    "file": "Doublets_Sphr_SP46_1277cells_processed_2xDoubletCounts_TCR_BCR.h5ad",
+    "fresh_shape": [
+      1277,
+      41763
+    ],
+    "reference_shape": [
+      1277,
+      41763
+    ],
+    "same_cell_set": true,
+    "same_gene_order": true,
+    "X_max_difference": 0.0,
+    "raw_X_max_difference": 0.0,
+    "HVG_differences": 0,
+    "cluster_ARI": 1.0,
+    "named_labels_identical": true,
+    "UMAP_max_difference": 7.812198162078857,
+    "expression_and_partition_match": true
+  },
+  {
+    "file": "Doublets_Sphr_SP55_1441cells_processed_2xDoubletCounts_TCR_BCR.h5ad",
+    "fresh_shape": [
+      1441,
+      41763
+    ],
+    "reference_shape": [
+      1441,
+      41763
+    ],
+    "same_cell_set": true,
+    "same_gene_order": true,
+    "X_max_difference": 0.0,
+    "raw_X_max_difference": 0.0,
+    "HVG_differences": 0,
+    "cluster_ARI": 1.0,
+    "named_labels_identical": true,
+    "UMAP_max_difference": 7.273409366607666,
+    "expression_and_partition_match": true
+  }
+]

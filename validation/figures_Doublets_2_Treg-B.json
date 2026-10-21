@@ -1,0 +1,99 @@
+{
+  "notebook": "Doublets_2_Treg-B.ipynb",
+  "mode": "preserved_manuscript_checkpoint_figures",
+  "fresh_clustering_executed": false,
+  "status": "passed",
+  "cells": [
+    {
+      "cell": 3,
+      "seconds": 0.036,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 4,
+      "seconds": 0.001,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 5,
+      "seconds": 8.565,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 34,
+      "seconds": 0.199,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 35,
+      "seconds": 0.002,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 36,
+      "seconds": 0.001,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 37,
+      "seconds": 0.001,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 38,
+      "seconds": 0.0,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 39,
+      "seconds": 1.372,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 40,
+      "seconds": 0.262,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 41,
+      "seconds": 0.188,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 42,
+      "seconds": 0.598,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 44,
+      "seconds": 0.186,
+      "status": "passed",
+      "error": null
+    }
+  ],
+  "source_sha256": "79e6a1f619fb9f7289b40e810bb4eefc12141382cb46ff41f80657d212dde6d6",
+  "python": "3.11.8 | packaged by conda-forge | (main, Feb 16 2024, 20:49:36) [Clang 16.0.6 ]",
+  "packages": {
+    "scanpy": "1.9.4",
+    "anndata": "0.9.2",
+    "numpy": "1.24.4",
+    "pandas": "2.1.0",
+    "scipy": "1.11.2",
+    "igraph": "0.10.6",
+    "matplotlib": "3.7.3",
+    "seaborn": "0.12.2",
+    "statannotations": "0.7.2"
+  }
+}

@@ -1,5 +1,6 @@
 # Local data and generated results
-data/
+data/*
+!data/README.md
 results/
 outputs/
 figures/
@@ -29,3 +30,4 @@ __pycache__/
 .RData
 .Rproj.user/
 .DS_Store
+*.tar.gz

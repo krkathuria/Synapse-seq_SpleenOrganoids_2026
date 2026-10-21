@@ -1,0 +1,194 @@
+{
+  "notebook": "Doublets_4_Step1_PreProcessing_halveSingletReads_with_DoubletScores_only_HugoGeneSymbols.ipynb",
+  "source_sha256": "6e2efad5a62eaa3a118f27f66311e84ef69d57265e9953527486fe27d97c0f70",
+  "mode": "full_notebook_with_explicit_checkpoint_figure_section",
+  "status": "passed",
+  "cells": [
+    {
+      "cell": 3,
+      "seconds": 0.001,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 4,
+      "seconds": 2.552,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 5,
+      "seconds": 1.712,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 7,
+      "seconds": 34.652,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 8,
+      "seconds": 419.485,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 10,
+      "seconds": 34.266,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 11,
+      "seconds": 0.035,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 13,
+      "seconds": 2.741,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 15,
+      "seconds": 0.297,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 17,
+      "seconds": 0.682,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 18,
+      "seconds": 0.195,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 19,
+      "seconds": 4.056,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 20,
+      "seconds": 0.455,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 21,
+      "seconds": 0.132,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 22,
+      "seconds": 0.265,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 24,
+      "seconds": 2.92,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 25,
+      "seconds": 0.007,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 27,
+      "seconds": 0.001,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 28,
+      "seconds": 0.006,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 29,
+      "seconds": 0.504,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 30,
+      "seconds": 0.038,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 31,
+      "seconds": 1.211,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 32,
+      "seconds": 0.001,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 33,
+      "seconds": 1.783,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 34,
+      "seconds": 0.001,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 36,
+      "seconds": 0.949,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 38,
+      "seconds": 0.001,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 39,
+      "seconds": 1.221,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 41,
+      "seconds": 0.39,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 43,
+      "seconds": 0.272,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 45,
+      "seconds": 0.001,
+      "status": "passed",
+      "error": null
+    }
+  ]
+}

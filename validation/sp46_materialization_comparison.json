@@ -1,0 +1,44 @@
+{
+  "tested_change": "Explicit .copy() of Sp46 donor subset before PCA; all filtering and clustering parameters unchanged",
+  "before": {
+    "file": "Doublets_SP46_1961cells_processed_2xDoubletCounts_BCR_TCR.h5ad",
+    "fresh_shape": [
+      1961,
+      41763
+    ],
+    "reference_shape": [
+      1961,
+      41763
+    ],
+    "same_cell_set": true,
+    "same_gene_order": true,
+    "X_max_difference": 0.0,
+    "raw_X_max_difference": 0.0,
+    "HVG_differences": 0,
+    "cluster_ARI": 0.994234998037314,
+    "named_labels_identical": false,
+    "UMAP_max_difference": 7.950552940368652,
+    "expression_and_partition_match": false
+  },
+  "after": {
+    "file": "Doublets_SP46_1961cells_processed_2xDoubletCounts_BCR_TCR.h5ad",
+    "fresh_shape": [
+      1961,
+      41763
+    ],
+    "reference_shape": [
+      1961,
+      41763
+    ],
+    "same_cell_set": true,
+    "same_gene_order": true,
+    "X_max_difference": 0.0,
+    "raw_X_max_difference": 0.0,
+    "HVG_differences": 0,
+    "cluster_ARI": 1.0,
+    "named_labels_identical": true,
+    "UMAP_max_difference": 5.747382164001465,
+    "expression_and_partition_match": true
+  },
+  "environment": "Clean Python 3.11.8 macOS ARM64; requirements-tested-macos-arm64.txt"
+}
