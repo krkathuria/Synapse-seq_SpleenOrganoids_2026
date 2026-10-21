@@ -1,0 +1,36 @@
+{
+  "archive": "Synapse-seq_Doublets_data_20261020.tar.gz",
+  "sha256": "45261b520de63aaa5921050546dd3b8659e2c183212ce16bb29f45cc3aceb262",
+  "parts": [
+    {
+      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part01",
+      "bytes": 2000000000,
+      "sha256": "a8c35c28feeac15228c76b552bdf6b606cb1052ffe882dbb59e02c52ab449d8b"
+    },
+    {
+      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part02",
+      "bytes": 2000000000,
+      "sha256": "ec214d9d9342ee3b0d11ad9578e3aa59c1ef4369d44f4fdeb4d5209b1a8a250e"
+    },
+    {
+      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part03",
+      "bytes": 2000000000,
+      "sha256": "b71bfb708c633b9ddbd43a352b3d6027ac53b816c9e5b4dc233d86714b6cd10a"
+    },
+    {
+      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part04",
+      "bytes": 2000000000,
+      "sha256": "cf66b5e6b817d773907b99459cf28d09f416beb01152a586ec21f8de74d165c5"
+    },
+    {
+      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part05",
+      "bytes": 2000000000,
+      "sha256": "9ece7006a19bfb33ebcdbb8ad4621ff06439d5e96b04202f68b8059971ddd21a"
+    },
+    {
+      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part06",
+      "bytes": 1720414184,
+      "sha256": "8feeea03fb56a7c2a1737cf011e079e3ae953c85aaaee1e810050aa471709555"
+    }
+  ]
+}

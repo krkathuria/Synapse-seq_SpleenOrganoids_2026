@@ -1,9 +1,5 @@
 [
   {
-    "generated": "results/Doublets_2_Treg-B/barplot_Fig_S2_SP17_leiden_sortedpop.pdf",
-    "status": "no_matching_reference_filename"
-  },
-  {
     "generated": "results/Doublets_2_Treg-B/barplot_Fig_S3_SP17_ArtDoub.pdf",
     "latest_reference": "data/manuscript_plot_references/figure_drafts_20250301/barplot_Fig_S3_SP17_ArtDoub.pdf",
     "same_size": true,
@@ -38,21 +34,6 @@
     ]
   },
   {
-    "generated": "results/Doublets_2_Treg-B/dotplot_Fig_S2_SP17.pdf",
-    "latest_reference": "data/manuscript_plot_references/figure_drafts_202410/dotplot_Fig_S2_SP17.pdf",
-    "same_size": false,
-    "generated_size": [
-      1118,
-      347
-    ],
-    "reference_size": [
-      415,
-      1062
-    ],
-    "pixel_exact": false,
-    "exact_matching_references": []
-  },
-  {
     "generated": "results/Doublets_2_Treg-B/dotplot_Fig_S3_SP17.pdf",
     "latest_reference": "data/manuscript_plot_references/figure_drafts_20261009/dotplot_Fig_S3_SP17.pdf",
     "same_size": true,
@@ -65,10 +46,6 @@
       "data/manuscript_plot_references/figure_drafts_20260611/dotplot_Fig_S3_SP17.pdf",
       "data/manuscript_plot_references/figure_drafts_20260322/dotplot_Fig_S3_SP17.pdf"
     ]
-  },
-  {
-    "generated": "results/Doublets_2_Treg-B/umap_Fig_S2_SP17_leiden_sortedpop.pdf",
-    "status": "no_matching_reference_filename"
   },
   {
     "generated": "results/Doublets_2_Treg-B/umap_Fig_S3_SP17_leiden.pdf",
@@ -169,20 +146,6 @@
     ]
   },
   {
-    "generated": "results/Doublets_4_Clustering_Sp46/dotplot_dotplot_SP46_nonSpheromer.pdf",
-    "latest_reference": "data/manuscript_plot_references/figure_drafts_20261009/dotplot_dotplot_SP46_nonSpheromer.pdf",
-    "same_size": true,
-    "pixel_exact": true,
-    "mean_absolute_pixel_difference": 0.0,
-    "changed_pixel_fraction": 0.0,
-    "exact_matching_references": [
-      "data/manuscript_plot_references/figure_drafts_20261009/dotplot_dotplot_SP46_nonSpheromer.pdf",
-      "data/manuscript_plot_references/figure_drafts_20260628/dotplot_dotplot_SP46_nonSpheromer.pdf",
-      "data/manuscript_plot_references/figure_drafts_20260611/dotplot_dotplot_SP46_nonSpheromer.pdf",
-      "data/manuscript_plot_references/figure_drafts_20260322/dotplot_dotplot_SP46_nonSpheromer.pdf"
-    ]
-  },
-  {
     "generated": "results/Doublets_4_Clustering_Sp46/umap_Fig_S3_SP46_leiden.pdf",
     "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_S3_SP46_leiden.pdf",
     "same_size": true,
@@ -254,18 +217,6 @@
     ]
   },
   {
-    "generated": "results/Doublets_4_Clustering_Sp55/barplot_Fig_2_Stimulation.pdf",
-    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/barplot_Fig_2_Stimulation.pdf",
-    "same_size": true,
-    "pixel_exact": true,
-    "mean_absolute_pixel_difference": 0.0,
-    "changed_pixel_fraction": 0.0,
-    "exact_matching_references": [
-      "data/manuscript_plot_references/figure_drafts_20250401/barplot_Fig_2_Stimulation.pdf",
-      "data/manuscript_plot_references/figure_drafts_20250301/barplot_Fig_2_Stimulation.pdf"
-    ]
-  },
-  {
     "generated": "results/Doublets_4_Clustering_Sp55/barplot_Fig_2_singlet.pdf",
     "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/barplot_Fig_2_singlet.pdf",
     "same_size": true,
@@ -277,10 +228,6 @@
       "data/manuscript_plot_references/figure_drafts_20250301/barplot_Fig_2_singlet.pdf",
       "data/manuscript_plot_references/figure_drafts_20250103/barplot_Fig_2_singlet.pdf"
     ]
-  },
-  {
-    "generated": "results/Doublets_4_Clustering_Sp55/barplot_Fig_3_leiden_isotype.pdf",
-    "status": "no_matching_reference_filename"
   },
   {
     "generated": "results/Doublets_4_Clustering_Sp55/barplot_Fig_S4_leiden_isotype.pdf",
@@ -307,16 +254,17 @@
   {
     "generated": "results/Doublets_4_Clustering_Sp55/dotplot_Fig_2_SP55.pdf",
     "latest_reference": "data/manuscript_plot_references/figure_drafts_20261009/dotplot_Fig_2_SP55.pdf",
-    "same_size": true,
-    "pixel_exact": true,
-    "mean_absolute_pixel_difference": 0.0,
-    "changed_pixel_fraction": 0.0,
-    "exact_matching_references": [
-      "data/manuscript_plot_references/figure_drafts_20261009/dotplot_Fig_2_SP55.pdf",
-      "data/manuscript_plot_references/figure_drafts_20260628/dotplot_Fig_2_SP55.pdf",
-      "data/manuscript_plot_references/figure_drafts_20260611/dotplot_Fig_2_SP55.pdf",
-      "data/manuscript_plot_references/figure_drafts_20260322/dotplot_Fig_2_SP55.pdf"
-    ]
+    "same_size": false,
+    "generated_size": [
+      817,
+      490
+    ],
+    "reference_size": [
+      661,
+      490
+    ],
+    "pixel_exact": false,
+    "exact_matching_references": []
   },
   {
     "generated": "results/Doublets_4_Clustering_Sp55/dotplot_Fig_S4_SP55.pdf",
@@ -330,20 +278,6 @@
       "data/manuscript_plot_references/figure_drafts_20260628/dotplot_Fig_S4_SP55.pdf",
       "data/manuscript_plot_references/figure_drafts_20260611/dotplot_Fig_S4_SP55.pdf",
       "data/manuscript_plot_references/figure_drafts_20260322/dotplot_Fig_S4_SP55.pdf"
-    ]
-  },
-  {
-    "generated": "results/Doublets_4_Clustering_Sp55/dotplot_Fig_S4_SP55_swapaxes.pdf",
-    "latest_reference": "data/manuscript_plot_references/figure_drafts_20261009/dotplot_Fig_S4_SP55_swapaxes.pdf",
-    "same_size": true,
-    "pixel_exact": true,
-    "mean_absolute_pixel_difference": 0.0,
-    "changed_pixel_fraction": 0.0,
-    "exact_matching_references": [
-      "data/manuscript_plot_references/figure_drafts_20261009/dotplot_Fig_S4_SP55_swapaxes.pdf",
-      "data/manuscript_plot_references/figure_drafts_20260628/dotplot_Fig_S4_SP55_swapaxes.pdf",
-      "data/manuscript_plot_references/figure_drafts_20260611/dotplot_Fig_S4_SP55_swapaxes.pdf",
-      "data/manuscript_plot_references/figure_drafts_20260322/dotplot_Fig_S4_SP55_swapaxes.pdf"
     ]
   },
   {
@@ -456,31 +390,6 @@
     ]
   },
   {
-    "generated": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts/dotplot_dotplot_SP46_Spheromer.pdf",
-    "latest_reference": "data/manuscript_plot_references/reviewer_figure_drafts_20260127/dotplot_dotplot_SP46_Spheromer.pdf",
-    "same_size": true,
-    "pixel_exact": true,
-    "mean_absolute_pixel_difference": 0.0,
-    "changed_pixel_fraction": 0.0,
-    "exact_matching_references": [
-      "data/manuscript_plot_references/reviewer_figure_drafts_20260127/dotplot_dotplot_SP46_Spheromer.pdf"
-    ]
-  },
-  {
-    "generated": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts/heatmap_validated_HA_T-B_pair.pdf",
-    "latest_reference": "data/manuscript_plot_references/figure_drafts_20261009/heatmap_validated_HA_T-B_pair.pdf",
-    "same_size": true,
-    "pixel_exact": true,
-    "mean_absolute_pixel_difference": 0.0,
-    "changed_pixel_fraction": 0.0,
-    "exact_matching_references": [
-      "data/manuscript_plot_references/figure_drafts_20261009/heatmap_validated_HA_T-B_pair.pdf",
-      "data/manuscript_plot_references/figure_drafts_20260628/heatmap_validated_HA_T-B_pair.pdf",
-      "data/manuscript_plot_references/figure_drafts_20260611/heatmap_validated_HA_T-B_pair.pdf",
-      "data/manuscript_plot_references/figure_drafts_20260322/heatmap_validated_HA_T-B_pair.pdf"
-    ]
-  },
-  {
     "generated": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts/umap_Fig_4_Sphr_SP46_leiden.pdf",
     "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_4_Sphr_SP46_leiden.pdf",
     "same_size": true,
@@ -493,23 +402,12 @@
     ]
   },
   {
-    "generated": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts/umap_Fig_4_Sphr_SP46_sortedpop.pdf",
-    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_4_Sphr_SP46_sortedpop.pdf",
-    "same_size": true,
-    "pixel_exact": true,
-    "mean_absolute_pixel_difference": 0.0,
-    "changed_pixel_fraction": 0.0,
-    "exact_matching_references": [
-      "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_4_Sphr_SP46_sortedpop.pdf"
-    ]
-  },
-  {
     "generated": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts/violinplot_Fig_4_sortedpop_clonalexpansion.pdf",
     "latest_reference": "data/manuscript_plot_references/figure_drafts_20261009/violinplot_Fig_4_sortedpop_clonalexpansion.pdf",
     "same_size": true,
     "pixel_exact": false,
-    "mean_absolute_pixel_difference": 0.234909,
-    "changed_pixel_fraction": 0.003223,
+    "mean_absolute_pixel_difference": 1.373551,
+    "changed_pixel_fraction": 0.011005,
     "exact_matching_references": []
   },
   {
@@ -517,17 +415,8 @@
     "latest_reference": "data/manuscript_plot_references/figure_drafts_20261009/violinplot_Fig_4_sortedpop_shm.pdf",
     "same_size": true,
     "pixel_exact": false,
-    "mean_absolute_pixel_difference": 0.602909,
-    "changed_pixel_fraction": 0.009682,
-    "exact_matching_references": []
-  },
-  {
-    "generated": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts/violinplot_Rev1Comm13_sortedpop_PRTN3_clonalexpansion_SP46.pdf",
-    "latest_reference": "data/manuscript_plot_references/reviewer_figure_drafts_20260127/violinplot_Rev1Comm13_sortedpop_PRTN3_clonalexpansion_SP46.pdf",
-    "same_size": true,
-    "pixel_exact": false,
-    "mean_absolute_pixel_difference": 0.153301,
-    "changed_pixel_fraction": 0.001733,
+    "mean_absolute_pixel_difference": 0.609535,
+    "changed_pixel_fraction": 0.00978,
     "exact_matching_references": []
   },
   {
@@ -564,17 +453,6 @@
     ]
   },
   {
-    "generated": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp55_larger_fonts/dotplot_dotplot_SP55_Spheromer.pdf",
-    "latest_reference": "data/manuscript_plot_references/reviewer_figure_drafts_20260127/dotplot_dotplot_SP55_Spheromer.pdf",
-    "same_size": true,
-    "pixel_exact": true,
-    "mean_absolute_pixel_difference": 0.0,
-    "changed_pixel_fraction": 0.0,
-    "exact_matching_references": [
-      "data/manuscript_plot_references/reviewer_figure_drafts_20260127/dotplot_dotplot_SP55_Spheromer.pdf"
-    ]
-  },
-  {
     "generated": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp55_larger_fonts/umap_Fig_S6_Sphr_SP55_leiden.pdf",
     "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_S6_Sphr_SP55_leiden.pdf",
     "same_size": true,
@@ -590,8 +468,8 @@
     "latest_reference": "data/manuscript_plot_references/reviewer_figure_drafts_20260127/violinplot_Fig_S6_sortedpop_clonalexpansion.pdf",
     "same_size": true,
     "pixel_exact": false,
-    "mean_absolute_pixel_difference": 0.299639,
-    "changed_pixel_fraction": 0.005617,
+    "mean_absolute_pixel_difference": 0.304507,
+    "changed_pixel_fraction": 0.005834,
     "exact_matching_references": []
   },
   {
@@ -599,17 +477,8 @@
     "latest_reference": "data/manuscript_plot_references/reviewer_figure_drafts_20260127/violinplot_Fig_S6_sortedpop_shm.pdf",
     "same_size": true,
     "pixel_exact": false,
-    "mean_absolute_pixel_difference": 0.627226,
-    "changed_pixel_fraction": 0.012114,
-    "exact_matching_references": []
-  },
-  {
-    "generated": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp55_larger_fonts/violinplot_Rev1Comm13_sortedpop_PRTN3_clonalexpansion_SP55.pdf",
-    "latest_reference": "data/manuscript_plot_references/reviewer_figure_drafts_20260127/violinplot_Rev1Comm13_sortedpop_PRTN3_clonalexpansion_SP55.pdf",
-    "same_size": true,
-    "pixel_exact": false,
-    "mean_absolute_pixel_difference": 0.274521,
-    "changed_pixel_fraction": 0.003815,
+    "mean_absolute_pixel_difference": 0.64929,
+    "changed_pixel_fraction": 0.012191,
     "exact_matching_references": []
   }
 ]

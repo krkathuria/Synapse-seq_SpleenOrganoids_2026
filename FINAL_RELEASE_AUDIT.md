@@ -1,3 +1,5 @@
+> Historical execution record. The final publication cleanup and current assembled-panel validation are documented in [PUBLICATION_REVIEW.md](PUBLICATION_REVIEW.md), which supersedes earlier plot counts, coverage, and upload-readiness statements below. Full-run evidence applies to the unchanged upstream calculations; current figure-run evidence records the final source hashes.
+
 # Release verification on 20 October 2026
 
 The retained Doublets 2/4 workflows execute with the packaged inputs. **Complete reproduction of the paper has not been established.** Figure 1 atlas analyses, Figure 6 SLE analyses, non-sequencing experiments, and final assembled panel layouts are outside this collection; see `PAPER_FIGURE_COVERAGE.tsv`.

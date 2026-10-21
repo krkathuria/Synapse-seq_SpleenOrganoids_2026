@@ -15,5 +15,12 @@
   "fresh_partitions_matching_reference": 5,
   "fresh_named_labels_all_identical": true,
   "fresh_UMAP_coordinates_all_identical": false,
-  "Sp46_full_notebook_clean_environment_passed": true
+  "Sp46_full_notebook_clean_environment_passed": true,
+  "final_publication_figures": 41,
+  "final_included_panels": 27,
+  "current_assembled_panels_scientific_content_verified": true,
+  "final_clean_figure_sections_passed": 5,
+  "upstream_calculation_prefixes_unchanged": true,
+  "public_information_page": "https://github.com/krkathuria/Synapse-seq_SpleenOrganoids_2026-info",
+  "analysis_repository_private": true
 }

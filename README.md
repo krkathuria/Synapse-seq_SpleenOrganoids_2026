@@ -4,9 +4,11 @@ Sequencing-analysis source for **Doublets 2 and Doublets 4**, accompanying *Syna
 
 ## Current validation status
 
+**Final manuscript review:** all 41 retained exports were checked against the current assembled figures, covering 27 included Doublets 2/4 panels. Obsolete and exploratory sections were removed. Read [PUBLICATION_REVIEW.md](PUBLICATION_REVIEW.md) for the final panel map, the Figure 2E correction, and precise limits (point jitter and manual page assembly).
+
 The required local inputs have been copied into [`data/`](data/README.md). All five final manuscript figure sections execute successfully from preserved publication checkpoints. **Sp55's clustering issue is resolved.** An explicit copy before PCA restores the partition, and an exact-membership check applies the original labels despite swapped numeric cluster IDs. The author-approved historical 30% ERCC cutoff has been restored for Doublets 2 in both the release code and Methods; it reproduces all 629 manuscript cluster assignments. Doublets 4 retains 20%. Read [`CLUSTERING_DIAGNOSIS.md`](CLUSTERING_DIAGNOSIS.md) and [`VALIDATION_REPORT.md`](VALIDATION_REPORT.md) before running or releasing this collection.
 
-Source notebooks have cleared outputs and execution counts. Executed copies and logs are saved separately. This repository covers the retained Doublets 2/4 analyses; **it does not completely reproduce all figures in the paper**. See [`PAPER_FIGURE_COVERAGE.tsv`](PAPER_FIGURE_COVERAGE.tsv) for the coverage gaps.
+Source notebooks have cleared outputs and execution counts. Executed copies and logs are saved separately. This repository covers the retained Doublets 2/4 analyses; **it does not completely reproduce all figures in the paper**. Atlas, SLE, and other non-sequencing experiments are excluded by the author. See [`PAPER_FIGURE_COVERAGE.tsv`](PAPER_FIGURE_COVERAGE.tsv) and [`MANUSCRIPT_PANEL_MAP.tsv`](MANUSCRIPT_PANEL_MAP.tsv) for exact coverage.
 
 The final isolated rerun completed all eight notebooks and the R analysis. After explicitly copying the non-spheromer Sp46 donor subset before PCA, all five freshly computed cluster partitions and named cell assignments match the manuscript references exactly. Expression matrices and variable-gene flags also match within numerical precision. Fresh UMAP coordinates can differ; exact saved layouts are supplied for figure rendering. See [`FINAL_RELEASE_AUDIT.md`](FINAL_RELEASE_AUDIT.md).
 
@@ -58,3 +60,5 @@ Code contact: [Karan R. Kathuria](https://github.com/krkathuria). Study lead con
 ## License
 
 A license remains to be selected with the authors before public release. No open-source license is granted by the current private preparation repository.
+
+Public information page (README only): https://github.com/krkathuria/Synapse-seq_SpleenOrganoids_2026-info. This analysis repository and its data remain private pending release.

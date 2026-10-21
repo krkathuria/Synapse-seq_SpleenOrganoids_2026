@@ -12,7 +12,9 @@
 - [x] Build and verify the 7,829-file auxiliary data archive.
 - [x] Install the release Python dependencies in a clean environment and rerun all five figure sections.
 - [x] Resolve the non-spheromer Sp46 partition difference with an explicit subset copy before PCA; verify all five fresh partitions and named labels against the manuscript objects.
-- [ ] Add and verify the other paper workflows before claiming complete paper reproduction.
+- [x] Validate all included sequencing panels against the current assembled manuscript and remove obsolete or exploratory output sections.
+- [x] Create a separate public README-only information page while retaining the analysis repository as private.
+- [ ] Atlas, SLE, and other non-sequencing workflows are outside the current author-approved scope.
 - [ ] Select a license and final citation/archive identifiers.
 - [ ] Publish the large data archive at a persistent download location and add its URL.
 - [ ] Finalize the repository's public release and data availability statement.

@@ -6,7 +6,7 @@
   "cells": [
     {
       "cell": 3,
-      "seconds": 0.036,
+      "seconds": 0.031,
       "status": "passed",
       "error": null
     },
@@ -18,72 +18,60 @@
     },
     {
       "cell": 5,
-      "seconds": 8.565,
+      "seconds": 2.305,
       "status": "passed",
       "error": null
     },
     {
-      "cell": 34,
-      "seconds": 0.199,
+      "cell": 27,
+      "seconds": 0.235,
       "status": "passed",
       "error": null
     },
     {
-      "cell": 35,
+      "cell": 28,
       "seconds": 0.002,
       "status": "passed",
       "error": null
     },
     {
-      "cell": 36,
+      "cell": 29,
       "seconds": 0.001,
       "status": "passed",
       "error": null
     },
     {
-      "cell": 37,
+      "cell": 30,
       "seconds": 0.001,
       "status": "passed",
       "error": null
     },
     {
-      "cell": 38,
+      "cell": 31,
       "seconds": 0.0,
       "status": "passed",
       "error": null
     },
     {
-      "cell": 39,
-      "seconds": 1.372,
+      "cell": 32,
+      "seconds": 1.114,
       "status": "passed",
       "error": null
     },
     {
-      "cell": 40,
-      "seconds": 0.262,
+      "cell": 33,
+      "seconds": 0.148,
       "status": "passed",
       "error": null
     },
     {
-      "cell": 41,
-      "seconds": 0.188,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 42,
-      "seconds": 0.598,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 44,
-      "seconds": 0.186,
+      "cell": 34,
+      "seconds": 0.18,
       "status": "passed",
       "error": null
     }
   ],
-  "source_sha256": "79e6a1f619fb9f7289b40e810bb4eefc12141382cb46ff41f80657d212dde6d6",
+  "source_sha256": "8aa036ecdb9ba55a3f5d9bc8f021914afbac55ae4da70d29548ba26455833ecd",
   "python": "3.11.8 | packaged by conda-forge | (main, Feb 16 2024, 20:49:36) [Clang 16.0.6 ]",
   "packages": {
     "scanpy": "1.9.4",

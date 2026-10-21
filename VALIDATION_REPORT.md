@@ -1,3 +1,5 @@
+> Historical execution record. The final publication cleanup and current assembled-panel validation are documented in [PUBLICATION_REVIEW.md](PUBLICATION_REVIEW.md), which supersedes earlier plot counts, coverage, and upload-readiness statements below. Full-run evidence applies to the unchanged upstream calculations; current figure-run evidence records the final source hashes.
+
 # Local reproduction report — 20 October 2026
 
 **The subsequent [final release audit](FINAL_RELEASE_AUDIT.md) supersedes readiness claims in this earlier report.** It adds an isolated full rerun, clean Python installation, archive verification, and resolution of the final non-spheromer Sp46 partition mismatch. All five fresh partitions and named labels now match the references. The figures below are checkpoint-based comparisons, not whole-paper reconstruction. The upload status below records the earlier preparation stage.

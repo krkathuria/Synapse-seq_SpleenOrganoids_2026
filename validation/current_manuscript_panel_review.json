@@ -1,0 +1,408 @@
+{
+  "date": "2026-10-20",
+  "scope": "Doublets 2 and 4; atlas, SLE, and other non-sequencing experiments excluded by author; S5C index-sort gates included",
+  "assembled_figures": [
+    {
+      "file": "Figure_2_20260629.ai",
+      "sha256": "b480ab36ab5069ef2901f6632ee0be94a839106f0a6092ae2fc273a88e7f95bb"
+    },
+    {
+      "file": "Figure_4_20260629.ai",
+      "sha256": "86f8cbc9ecb1e9aac22d78d9d61eaf6fc0d7fd98695e4d272bd8ced03bea8cb7"
+    },
+    {
+      "file": "Figure_S3_20261019.ai",
+      "sha256": "4fbf722166cc50f0c98e8c83b10c2cfc949e56387c0c5d40111315659d582378"
+    },
+    {
+      "file": "Figure_S4_20260629.ai",
+      "sha256": "fb1ed3ca28f21e157771b628e0055e03656af33838dc927c8e832665d7939350"
+    },
+    {
+      "file": "Figure_S5_20261019.ai",
+      "sha256": "95e22721f32ae8dc6bb11386aaa67602a78018ae220025e5eaea79a599a48778"
+    },
+    {
+      "file": "Figure_S6_20260629.ai",
+      "sha256": "9d2dfb0fb9eab5a9aefe1c88ab344db065542b228e176a18bfd42d281a52ec6b"
+    }
+  ],
+  "generated_plots": 41,
+  "included_panels": 27,
+  "all_included_scientific_content_visually_checked": true,
+  "page_layouts_reconstructed": false,
+  "full_workflow_before_cleanup": true,
+  "unchanged_upstream_cells_verified": true,
+  "final_clean_figure_sections_passed": 5,
+  "plots": [
+    {
+      "panel": "S3E",
+      "output": "results/Doublets_2_Treg-B/barplot_Fig_S3_SP17_ArtDoub.pdf",
+      "source_notebook": "analysis/Doublets_2_Treg-B.ipynb",
+      "output_sha256": "a15e6ec04b5291197c93d42fc92e057a9d1c0d8e19a7f24b42465bff8f8fb6fa",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "S3E",
+      "output": "results/Doublets_2_Treg-B/barplot_Fig_S3_SP17_RealDoub.pdf",
+      "source_notebook": "analysis/Doublets_2_Treg-B.ipynb",
+      "output_sha256": "eb4cb2a114abb17e59e9c6b6e41d04557fdf432a2a760b111fb79ab93e383ede",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "S3E",
+      "output": "results/Doublets_2_Treg-B/barplot_Fig_S3_SP17_singlet.pdf",
+      "source_notebook": "analysis/Doublets_2_Treg-B.ipynb",
+      "output_sha256": "02d0f031bf6a64a8d554a9d70cbc3a2e875032fb3cea6726bfa864cd7a16296c",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "S3F",
+      "output": "results/Doublets_2_Treg-B/dotplot_Fig_S3_SP17.pdf",
+      "source_notebook": "analysis/Doublets_2_Treg-B.ipynb",
+      "output_sha256": "e566baaad3b5052510e33805f33164d777bbc6fd4ff97246c2f9ef89c4d12418",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "S3D",
+      "output": "results/Doublets_2_Treg-B/umap_Fig_S3_SP17_leiden.pdf",
+      "source_notebook": "analysis/Doublets_2_Treg-B.ipynb",
+      "output_sha256": "9fbba5d426005e49ff19d91b9b19d261fb99fbec532c2e5138b4e636e116a86c",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "S3E",
+      "output": "results/Doublets_2_Treg-B/umap_Fig_S3_SP17_leiden_ArtDoub.pdf",
+      "source_notebook": "analysis/Doublets_2_Treg-B.ipynb",
+      "output_sha256": "6a4094c88cb21b58ece88ef4871ca46d91a9e2396d723d76a99f375d42cba19d",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "S3E",
+      "output": "results/Doublets_2_Treg-B/umap_Fig_S3_SP17_leiden_RealDoub.pdf",
+      "source_notebook": "analysis/Doublets_2_Treg-B.ipynb",
+      "output_sha256": "76815c2e648e2d6ddae6c71a5b9c8d58288b65bf7d0ba1bcc1017d81701a8139",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "S3E",
+      "output": "results/Doublets_2_Treg-B/umap_Fig_S3_SP17_leiden_Singlets.pdf",
+      "source_notebook": "analysis/Doublets_2_Treg-B.ipynb",
+      "output_sha256": "4e989e44809e11a939bbfc17369c9965ebc84022f50a14521d738d5442fec5dd",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "S3B",
+      "output": "results/Doublets_4_Clustering_Sp46/barplot_Fig_S3_SP46_ArtDoub.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sp46.ipynb",
+      "output_sha256": "115ebed6e87a4f9a77777cbe6c08f6c3dba4544581e8c42938eb618a4f5ab670",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "S3B",
+      "output": "results/Doublets_4_Clustering_Sp46/barplot_Fig_S3_SP46_RealDoub.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sp46.ipynb",
+      "output_sha256": "a77adbe47b6b8d43bf76da93370b84c0c565bcc497962e6a6b9796a233daa52b",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "S3B",
+      "output": "results/Doublets_4_Clustering_Sp46/barplot_Fig_S3_SP46_singlet.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sp46.ipynb",
+      "output_sha256": "61ed0dc36a646be051428e6f70b15b82caaa5a5a90a13a275ec72a9b486a6a1d",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "S3C",
+      "output": "results/Doublets_4_Clustering_Sp46/dotplot_Fig_S3_SP46.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sp46.ipynb",
+      "output_sha256": "354c7dd76c08074778149074d8cd3e37699548269fcfa3530710411c80740bc8",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "S3A",
+      "output": "results/Doublets_4_Clustering_Sp46/umap_Fig_S3_SP46_leiden.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sp46.ipynb",
+      "output_sha256": "44043b23bb9c04b1d1222673d623e4c85b5a863d160b4d77c5d2bb74805d14e4",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "S3B",
+      "output": "results/Doublets_4_Clustering_Sp46/umap_Fig_S3_SP46_leiden_ArtDoub.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sp46.ipynb",
+      "output_sha256": "4fa6d6750954e082c0d71b2e017b4678f8fdf7615138921ccbe7df86c5437c75",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "S3B",
+      "output": "results/Doublets_4_Clustering_Sp46/umap_Fig_S3_SP46_leiden_RealDoub.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sp46.ipynb",
+      "output_sha256": "8b132e891218c1f3c848df6f2a042c7850455e01e8cb0656726c92add9b897a0",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "S3B",
+      "output": "results/Doublets_4_Clustering_Sp46/umap_Fig_S3_SP46_leiden_Singlets.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sp46.ipynb",
+      "output_sha256": "73cb30d82a60976c1474fff3c70f3868c04a4c5a7f3ff5a2dbd4f29f655d186a",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "2G",
+      "output": "results/Doublets_4_Clustering_Sp55/barplot_Fig_2_ArtDoub.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sp55.ipynb",
+      "output_sha256": "5b4944b1701a582b3e8fc797e15cb1c90941d5d3211868149b3d9b1e4ca59032",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "2F",
+      "output": "results/Doublets_4_Clustering_Sp55/barplot_Fig_2_RealDoub.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sp55.ipynb",
+      "output_sha256": "c2a432e3e2e8f254c6dd0803f42bb5e7d947b83dd0251efa662a5c01d1531967",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "2H",
+      "output": "results/Doublets_4_Clustering_Sp55/barplot_Fig_2_singlet.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sp55.ipynb",
+      "output_sha256": "6c996eb4140b846009d26191599937448478bf2ee61ef72dc8138e2595f0b50e",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "S4B",
+      "output": "results/Doublets_4_Clustering_Sp55/barplot_Fig_S4_leiden_isotype.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sp55.ipynb",
+      "output_sha256": "4f55fec7e90f70c2c2b6c96679cb7b41a719d348a405827a20fdf7ba5bb2705f",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "S4D",
+      "output": "results/Doublets_4_Clustering_Sp55/barplot_Fig_S4_stimulation_leiden.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sp55.ipynb",
+      "output_sha256": "ac4cef15cb7e1ff06ab9c2e260d782aa2af34cbb700f83a8004c80ae3c5fa477",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "2E",
+      "output": "results/Doublets_4_Clustering_Sp55/dotplot_Fig_2_SP55.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sp55.ipynb",
+      "output_sha256": "264c331f0663c47c0d868f95612fb14ebcc3df40a4378376d4e2d92f1977ae6c",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": false,
+      "note": "Corrected to the 16 markers in the current assembled Figure 2E; older standalone export has 11 markers."
+    },
+    {
+      "panel": "S4A",
+      "output": "results/Doublets_4_Clustering_Sp55/dotplot_Fig_S4_SP55.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sp55.ipynb",
+      "output_sha256": "4f766cdfe6902ee99bd37963297a7667b3cacb9c98d02bab8f60648cd3fac69e",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "2D",
+      "output": "results/Doublets_4_Clustering_Sp55/umap_Fig_2_SP55_leiden.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sp55.ipynb",
+      "output_sha256": "776b00e74d4cc99fc6b3240c964659b1a03ee65b8ea787802f83ac6096446d95",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "2G",
+      "output": "results/Doublets_4_Clustering_Sp55/umap_Fig_2_SP55_leiden_ArtDoub.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sp55.ipynb",
+      "output_sha256": "3f6dabab8817cba5f6a99150d1a971baae7d29041550e88d6acc6a18b81fd71d",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "2F",
+      "output": "results/Doublets_4_Clustering_Sp55/umap_Fig_2_SP55_leiden_RealDoub.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sp55.ipynb",
+      "output_sha256": "161f0d6f303ac36b88bb726e775ac0bce4cbd660b0244c29e86152f0ce01ee43",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "2H",
+      "output": "results/Doublets_4_Clustering_Sp55/umap_Fig_2_SP55_leiden_Singlets.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sp55.ipynb",
+      "output_sha256": "d56ffcd7826ac599010c118906284edcdef28704b58f1f052bc13c2d12d79102",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "S4C",
+      "output": "results/Doublets_4_Clustering_Sp55/violinplot_Fig_S4_sortedpop_shm.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sp55.ipynb",
+      "output_sha256": "5a01f19d3d2010d18382a216a85d61870ca20a6438dbf02b94e184844bf23bcd",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Horizontal point jitter differs; distributions, group order, colors and significance annotations match."
+    },
+    {
+      "panel": "S5C",
+      "output": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts/SP46_Spheromer_Gating.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts.ipynb",
+      "output_sha256": "42ef987efe6a1483362e4d6ba9fb605b0fa3c9814c775d61d108e8f39577303b",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "4E",
+      "output": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts/barplot_Fig_4_Sphr_SP46_sortedpop_isotype.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts.ipynb",
+      "output_sha256": "788e31151d61a61b7bc9a4c0bc30820e00ff7ba06b4835d833c9a05f6caa178b",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "4C",
+      "output": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts/barplot_Fig_4_Sphr_SP46_sortedpop_leiden.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts.ipynb",
+      "output_sha256": "f2c11badbe2b751813898daac510a59d1f9e3d647825a99238bd1d1667083f7f",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "4D",
+      "output": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts/dotplot_Fig_4_Sphr_SP46.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts.ipynb",
+      "output_sha256": "67de646af7429d12b5dd518b62b6a9aa5bcae084819c7284e5e8b53b29666ca5",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "4B",
+      "output": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts/umap_Fig_4_Sphr_SP46_leiden.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts.ipynb",
+      "output_sha256": "c3d2057626a56c7222c6c5c06d7ade04b4981731a52222ba8059014e219f757e",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "4F",
+      "output": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts/violinplot_Fig_4_sortedpop_clonalexpansion.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts.ipynb",
+      "output_sha256": "689269cd659ceced8183c385cde04f519490d6bbca67f7a05962438329a3641b",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": false,
+      "note": "Horizontal point jitter differs; distributions, group order, colors and significance annotations match."
+    },
+    {
+      "panel": "4G",
+      "output": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts/violinplot_Fig_4_sortedpop_shm.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts.ipynb",
+      "output_sha256": "add4b0ef4be4f7828c2a47c204eb149970226de315ff9ebb6f80b0d9563e7d00",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": false,
+      "note": "Horizontal point jitter differs; distributions, group order, colors and significance annotations match."
+    },
+    {
+      "panel": "S5C",
+      "output": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp55_larger_fonts/SP55_Spheromer_Gating.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp55_larger_fonts.ipynb",
+      "output_sha256": "96df1f00b8a9483f841005b7a8a5e1928b16fa0b38ddbd33c0c673891f104c4b",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "S6C",
+      "output": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp55_larger_fonts/barplot_Fig_S6_Sphr_SP55_sortedpop_isotype.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp55_larger_fonts.ipynb",
+      "output_sha256": "c55f636a60612ce06b4255964f0f61551858dbe5f202ef74d9fb43a3aafc27ae",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "S6B",
+      "output": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp55_larger_fonts/barplot_Fig_S6_Sphr_SP55_sortedpop_leiden.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp55_larger_fonts.ipynb",
+      "output_sha256": "dd6a784137f482d0f47c8f60249a67e5e8b94588a9ea28b1aeb457d5a7af6fc1",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "S6A",
+      "output": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp55_larger_fonts/umap_Fig_S6_Sphr_SP55_leiden.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp55_larger_fonts.ipynb",
+      "output_sha256": "f0563b27c2660535934953146de5fd93ea5a1541bf9498e88dcdab184f773a1d",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": true,
+      "note": "Scientific content visually matched to the current assembled figure."
+    },
+    {
+      "panel": "S6D",
+      "output": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp55_larger_fonts/violinplot_Fig_S6_sortedpop_clonalexpansion.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp55_larger_fonts.ipynb",
+      "output_sha256": "47ee2b50d5d0956fb2229da6687da1eee4794b4a5c6be57033dceb80231f1370",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": false,
+      "note": "Horizontal point jitter differs; distributions, group order, colors and significance annotations match."
+    },
+    {
+      "panel": "S6E",
+      "output": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp55_larger_fonts/violinplot_Fig_S6_sortedpop_shm.pdf",
+      "source_notebook": "analysis/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp55_larger_fonts.ipynb",
+      "output_sha256": "0deb97b05602210f4fbb616f0db9011c74847295f2613c82874946d43098a480",
+      "scientific_content_matches_current_assembled_figure": true,
+      "pixel_exact_saved_standalone_reference": false,
+      "note": "Horizontal point jitter differs; distributions, group order, colors and significance annotations match."
+    }
+  ]
+}

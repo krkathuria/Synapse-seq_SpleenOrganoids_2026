@@ -6,7 +6,7 @@
   "cells": [
     {
       "cell": 3,
-      "seconds": 0.024,
+      "seconds": 0.022,
       "status": "passed",
       "error": null
     },
@@ -18,25 +18,25 @@
     },
     {
       "cell": 5,
-      "seconds": 2.319,
+      "seconds": 2.069,
       "status": "passed",
       "error": null
     },
     {
       "cell": 56,
-      "seconds": 0.235,
+      "seconds": 0.226,
       "status": "passed",
       "error": null
     },
     {
       "cell": 58,
-      "seconds": 0.31,
+      "seconds": 0.329,
       "status": "passed",
       "error": null
     },
     {
-      "cell": 59,
-      "seconds": 0.041,
+      "cell": 60,
+      "seconds": 0.001,
       "status": "passed",
       "error": null
     },
@@ -48,144 +48,60 @@
     },
     {
       "cell": 62,
-      "seconds": 0.001,
+      "seconds": 0.722,
       "status": "passed",
       "error": null
     },
     {
       "cell": 63,
-      "seconds": 0.625,
+      "seconds": 0.061,
       "status": "passed",
       "error": null
     },
     {
       "cell": 64,
-      "seconds": 0.487,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 65,
-      "seconds": 0.058,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 66,
       "seconds": 0.015,
       "status": "passed",
       "error": null
     },
     {
+      "cell": 65,
+      "seconds": 0.546,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 66,
+      "seconds": 0.193,
+      "status": "passed",
+      "error": null
+    },
+    {
       "cell": 67,
-      "seconds": 0.661,
+      "seconds": 0.077,
       "status": "passed",
       "error": null
     },
     {
       "cell": 68,
-      "seconds": 0.52,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 69,
-      "seconds": 0.427,
+      "seconds": 0.364,
       "status": "passed",
       "error": null
     },
     {
       "cell": 70,
-      "seconds": 0.191,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 71,
-      "seconds": 0.147,
+      "seconds": 0.0,
       "status": "passed",
       "error": null
     },
     {
       "cell": 72,
-      "seconds": 0.036,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 73,
-      "seconds": 0.076,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 74,
-      "seconds": 0.572,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 75,
-      "seconds": 2.166,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 76,
-      "seconds": 0.179,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 77,
-      "seconds": 0.257,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 79,
-      "seconds": 0.001,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 81,
-      "seconds": 1.058,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 82,
-      "seconds": 0.262,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 84,
-      "seconds": 0.187,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 86,
-      "seconds": 0.046,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 87,
-      "seconds": 0.088,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 88,
-      "seconds": 0.01,
+      "seconds": 1.149,
       "status": "passed",
       "error": null
     }
   ],
-  "source_sha256": "3f7e6f19bcfe97cf055e5af89a68d626689849bdf133f1f072460cd6a6b1a75a",
+  "source_sha256": "e6a831c525198a49b43fc6b9bc3d3ac7d9e5718833d69ef061af4a7b4388b65f",
   "python": "3.11.8 | packaged by conda-forge | (main, Feb 16 2024, 20:49:36) [Clang 16.0.6 ]",
   "packages": {
     "scanpy": "1.9.4",
