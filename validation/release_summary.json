@@ -5,7 +5,7 @@
   "data_files": 7829,
   "uncompressed_file_bytes": 14272895072,
   "all_archive_contents_verified_against_manifest": true,
-  "public_data_download_available": false,
+  "public_data_download_available": true,
   "fresh_python_install_passed": true,
   "pip_check_passed": true,
   "python_platform": "macOS ARM64 / Python 3.11.8",
@@ -28,6 +28,7 @@
   "final_clean_full_notebooks_passed": 8,
   "final_clean_full_R_analysis_passed": true,
   "repository_visibility": "public",
-  "data_download_available": false,
-  "data_release_url": "https://github.com/krkathuria/Synapse-seq_SpleenOrganoids_2026/releases/tag/doublets2-4-20261020"
+  "data_download_available": true,
+  "data_release_url": "https://github.com/krkathuria/Synapse-seq_SpleenOrganoids_2026/releases/tag/doublets2-4-20261020",
+  "all_uploaded_asset_sizes_and_sha256_verified": true
 }

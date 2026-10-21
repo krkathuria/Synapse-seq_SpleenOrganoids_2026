@@ -1,0 +1,170 @@
+[
+  {
+    "name": "PARTS.json",
+    "id": 661849614,
+    "state": "uploaded",
+    "size": 3680,
+    "digest": "sha256:631dff044162aecb3f7e43a4e5bf31793d5c2975f5df7f7f5bbdee1bdadd0a8f",
+    "url": "https://api.github.com/repos/krkathuria/Synapse-seq_SpleenOrganoids_2026/releases/assets/661849614"
+  },
+  {
+    "name": "README.txt",
+    "id": 661854833,
+    "state": "uploaded",
+    "size": 1185,
+    "digest": "sha256:5fb68e894da1d79587a24423c1028b6bcf4d570fddad66b4c9b37ede696f1aee",
+    "url": "https://api.github.com/repos/krkathuria/Synapse-seq_SpleenOrganoids_2026/releases/assets/661854833"
+  },
+  {
+    "name": "SHA256SUMS",
+    "id": 661849600,
+    "state": "uploaded",
+    "size": 2242,
+    "digest": "sha256:ee99cc1657370c5bf06ac170a883a42d7bb4d5cb3ddae823ceb0e7d2a21330e2",
+    "url": "https://api.github.com/repos/krkathuria/Synapse-seq_SpleenOrganoids_2026/releases/assets/661849600"
+  },
+  {
+    "name": "Synapse-seq_Doublets_data_20261020.tar.gz.part01",
+    "id": 661314494,
+    "state": "uploaded",
+    "size": 2000000000,
+    "digest": "sha256:a8c35c28feeac15228c76b552bdf6b606cb1052ffe882dbb59e02c52ab449d8b",
+    "url": "https://api.github.com/repos/krkathuria/Synapse-seq_SpleenOrganoids_2026/releases/assets/661314494"
+  },
+  {
+    "name": "Synapse-seq_Doublets_data_20261020.tar.gz.part02",
+    "id": 661348086,
+    "state": "uploaded",
+    "size": 2000000000,
+    "digest": "sha256:ec214d9d9342ee3b0d11ad9578e3aa59c1ef4369d44f4fdeb4d5209b1a8a250e",
+    "url": "https://api.github.com/repos/krkathuria/Synapse-seq_SpleenOrganoids_2026/releases/assets/661348086"
+  },
+  {
+    "name": "Synapse-seq_Doublets_data_20261020.tar.gz.part03.001",
+    "id": 661759784,
+    "state": "uploaded",
+    "size": 500000000,
+    "digest": "sha256:7b01470828e01b4d15c61656eedc84df42d5849fa5179aaa344ef1790124584b",
+    "url": "https://api.github.com/repos/krkathuria/Synapse-seq_SpleenOrganoids_2026/releases/assets/661759784"
+  },
+  {
+    "name": "Synapse-seq_Doublets_data_20261020.tar.gz.part03.002",
+    "id": 661771433,
+    "state": "uploaded",
+    "size": 500000000,
+    "digest": "sha256:4c1215439411ec8e57b21a1d10ee9ce27252a9d421d49a3bfbf374c490d367ef",
+    "url": "https://api.github.com/repos/krkathuria/Synapse-seq_SpleenOrganoids_2026/releases/assets/661771433"
+  },
+  {
+    "name": "Synapse-seq_Doublets_data_20261020.tar.gz.part03.003",
+    "id": 661781369,
+    "state": "uploaded",
+    "size": 500000000,
+    "digest": "sha256:d89eb065f3c209748528fae489673585b37cc71f87c0a0f3676933a0b49d76fc",
+    "url": "https://api.github.com/repos/krkathuria/Synapse-seq_SpleenOrganoids_2026/releases/assets/661781369"
+  },
+  {
+    "name": "Synapse-seq_Doublets_data_20261020.tar.gz.part03.004",
+    "id": 661804318,
+    "state": "uploaded",
+    "size": 500000000,
+    "digest": "sha256:f639a560d840f619a789eea127fee1ac5e6ac1d820e9df36447d25a43ea96445",
+    "url": "https://api.github.com/repos/krkathuria/Synapse-seq_SpleenOrganoids_2026/releases/assets/661804318"
+  },
+  {
+    "name": "Synapse-seq_Doublets_data_20261020.tar.gz.part04.001",
+    "id": 661828020,
+    "state": "uploaded",
+    "size": 500000000,
+    "digest": "sha256:4a1a3e58979c403a16b5ab7e6c4cd8c8c44701a8678265eac75a4adea4ce0516",
+    "url": "https://api.github.com/repos/krkathuria/Synapse-seq_SpleenOrganoids_2026/releases/assets/661828020"
+  },
+  {
+    "name": "Synapse-seq_Doublets_data_20261020.tar.gz.part04.002",
+    "id": 662921663,
+    "state": "uploaded",
+    "size": 500000000,
+    "digest": "sha256:36fb4607ea00dd39b48187e7dc5d065d62c6d08c973e36e5e809e5ea2fade335",
+    "url": "https://api.github.com/repos/krkathuria/Synapse-seq_SpleenOrganoids_2026/releases/assets/662921663"
+  },
+  {
+    "name": "Synapse-seq_Doublets_data_20261020.tar.gz.part04.003",
+    "id": 661835708,
+    "state": "uploaded",
+    "size": 500000000,
+    "digest": "sha256:720d46d8d344753bd527b00404c76609955d91d42a54ba7031290d3637559cbf",
+    "url": "https://api.github.com/repos/krkathuria/Synapse-seq_SpleenOrganoids_2026/releases/assets/661835708"
+  },
+  {
+    "name": "Synapse-seq_Doublets_data_20261020.tar.gz.part04.004",
+    "id": 662922075,
+    "state": "uploaded",
+    "size": 500000000,
+    "digest": "sha256:45a85994547fd5a1e3724214e8a6bed9df8d8f52485f54ae2dbe44adff39e8f4",
+    "url": "https://api.github.com/repos/krkathuria/Synapse-seq_SpleenOrganoids_2026/releases/assets/662922075"
+  },
+  {
+    "name": "Synapse-seq_Doublets_data_20261020.tar.gz.part05.001",
+    "id": 661781359,
+    "state": "uploaded",
+    "size": 500000000,
+    "digest": "sha256:76912bc43eaa56c931e42e490f68a7730145998b96eaaf44f9d5082941d5a2a0",
+    "url": "https://api.github.com/repos/krkathuria/Synapse-seq_SpleenOrganoids_2026/releases/assets/661781359"
+  },
+  {
+    "name": "Synapse-seq_Doublets_data_20261020.tar.gz.part05.002",
+    "id": 661804300,
+    "state": "uploaded",
+    "size": 500000000,
+    "digest": "sha256:69a2301aee5e32a233d765909df3c691f7b1c975d211e8b086dd7ac57765ac62",
+    "url": "https://api.github.com/repos/krkathuria/Synapse-seq_SpleenOrganoids_2026/releases/assets/661804300"
+  },
+  {
+    "name": "Synapse-seq_Doublets_data_20261020.tar.gz.part05.003",
+    "id": 661827993,
+    "state": "uploaded",
+    "size": 500000000,
+    "digest": "sha256:e5b1a748b0955d878a4cc4a05b63729ae38281329ae94b4c87dd1c7fae5bb7f0",
+    "url": "https://api.github.com/repos/krkathuria/Synapse-seq_SpleenOrganoids_2026/releases/assets/661827993"
+  },
+  {
+    "name": "Synapse-seq_Doublets_data_20261020.tar.gz.part05.004",
+    "id": 662922560,
+    "state": "uploaded",
+    "size": 500000000,
+    "digest": "sha256:c6f59e3bcf418950bd80bbb39be98eeba36eab93f023a5dbe00d91a5ff2f2334",
+    "url": "https://api.github.com/repos/krkathuria/Synapse-seq_SpleenOrganoids_2026/releases/assets/662922560"
+  },
+  {
+    "name": "Synapse-seq_Doublets_data_20261020.tar.gz.part06.001",
+    "id": 661774838,
+    "state": "uploaded",
+    "size": 500000000,
+    "digest": "sha256:ecf6c609ed3566e2aec87004235b94961b59ddbb650d542e6a3f85669835387e",
+    "url": "https://api.github.com/repos/krkathuria/Synapse-seq_SpleenOrganoids_2026/releases/assets/661774838"
+  },
+  {
+    "name": "Synapse-seq_Doublets_data_20261020.tar.gz.part06.002",
+    "id": 661789208,
+    "state": "uploaded",
+    "size": 500000000,
+    "digest": "sha256:0713551a3178abe45698cfecb3ed7dd6ed5a877cab1be91b0857fe5458d04f59",
+    "url": "https://api.github.com/repos/krkathuria/Synapse-seq_SpleenOrganoids_2026/releases/assets/661789208"
+  },
+  {
+    "name": "Synapse-seq_Doublets_data_20261020.tar.gz.part06.003",
+    "id": 661812542,
+    "state": "uploaded",
+    "size": 500000000,
+    "digest": "sha256:4dc0e7bffdfe1fc01238c4a0b16eec113adf361c8cef2412c2a45e4af3d0f47d",
+    "url": "https://api.github.com/repos/krkathuria/Synapse-seq_SpleenOrganoids_2026/releases/assets/661812542"
+  },
+  {
+    "name": "Synapse-seq_Doublets_data_20261020.tar.gz.part06.004",
+    "id": 661837788,
+    "state": "uploaded",
+    "size": 220414184,
+    "digest": "sha256:269f9138dcafcf1a7aa0b360b6d12e7bf4c5080c1cb50347abc5a2c0629ec6aa",
+    "url": "https://api.github.com/repos/krkathuria/Synapse-seq_SpleenOrganoids_2026/releases/assets/661837788"
+  }
+]

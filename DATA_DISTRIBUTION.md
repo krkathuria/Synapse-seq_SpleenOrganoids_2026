@@ -1,36 +1,45 @@
 # Input data distribution
 
-The prepared Doublets 2/4 bundle contains **7,829 files (14,272,895,072 bytes)**, including reference plots and documentation. This is the input set for the workflows in `analysis/`; it is not a source-data deposit for every figure in the paper. `PAPER_FIGURE_COVERAGE.tsv` identifies the additional analyses required for that broader claim.
+The complete auxiliary bundle for the retained Doublets 2/4 workflows contains **7,829 files (14,272,895,072 uncompressed bytes)**, plus DATA_MANIFEST.tsv. It is supplied as 18 parts in the [GitHub release](https://github.com/krkathuria/Synapse-seq_SpleenOrganoids_2026/releases/tag/doublets2-4-20261020). The analysis repository and this data release are public.
 
-`DATA_MANIFEST.tsv` is the authoritative archive inventory and records the path, size, SHA-256 checksum, and role of each file. It includes the Sp55 cluster annotation table required to label a freshly computed partition. The earlier provenance manifest remains inside the data bundle as `data/INPUT_MANIFEST.tsv`; its original and regenerated checksums must not be confused.
+`DATA_MANIFEST.tsv` records every file path, size, SHA-256, and role. It includes the Sp55 cluster-annotation lookup. The earlier `data/INPUT_MANIFEST.tsv` records source provenance; its original and regenerated checksums serve a different purpose.
 
-## Obtain and verify inputs
+## Download, reassemble, and verify
 
-The archive is prepared and is being uploaded to a GitHub release. **The complete download is not yet available.** GEO accession GSE351507 is the sequencing-data accession and must not be treated as a verified substitute for this auxiliary input bundle. A GitHub clone alone cannot execute these analyses until the separate data archive is supplied.
+Download the 18 data-part files listed in `PARTS.json` (`.part01`, `.part02`, and `.part03.001` through `.part06.004`), `SHA256SUMS`, `PARTS.json`, and `README.txt` from the release into one directory. The first two parts are 2 GB each; the remaining parts are at most 500 MB to avoid large-transfer timeouts.
 
-Extract the data archive at the repository root, preserving its `data/` layout. Before running anything:
+```bash
+cat Synapse-seq_Doublets_data_20261020.tar.gz.part0[1-6]* > Synapse-seq_Doublets_data_20261020.tar.gz
+shasum -a 256 -c SHA256SUMS
+# Linux alternative: sha256sum -c SHA256SUMS
+tar -xzf Synapse-seq_Doublets_data_20261020.tar.gz -C /path/to/Synapse-seq_SpleenOrganoids_2026
+```
+
+The complete archive is 11,720,414,184 bytes, with SHA-256:
+
+```text
+45261b520de63aaa5921050546dd3b8659e2c183212ce16bb29f45cc3aceb262
+```
+
+At the repository root, before running any analysis:
 
 ```bash
 python scripts/verify_data.py
 ```
 
-This reads and hashes every manifest-listed file, and exits unsuccessfully if any file is absent, has the wrong size, or has a different checksum. `--size-only` is a faster presence check, not an integrity check. Full analysis regenerates some intermediate files, so an integrity check after a full run may report expected changes; retain an untouched extracted bundle for validation.
+This hashes every manifest-listed file and fails on absence, size mismatch, or checksum mismatch. `--size-only` checks presence and size only. The full analysis regenerates intermediates, so retain an untouched bundle for integrity validation.
 
-## Build the distribution archive
+All 18 uploaded part sizes and GitHub's server-side SHA-256 digests were checked against the local parts. The three companion assets were checked likewise. Before splitting, every archive member was read back and checked against DATA_MANIFEST.tsv, with no missing, extra, duplicate, or mismatched files. Compact upload evidence is in `validation/release_assets.json`.
 
-```bash
-python scripts/build_data_bundle.py ../Synapse-seq_Doublets_data_20261020.tar.gz
-```
+## Included starting points and scope
 
-The builder first verifies all input hashes, packages only explicitly listed files, preserves relative paths, and writes a SHA-256 sidecar for the compressed archive. It excludes operating-system metadata, caches, unlisted intermediates, and generated figures. The release is separate from the code repository because of its size. The GitHub release link will be added when all uploads and checksum checks finish.
-
-## Included starting points
-
-- Original count tables and imaging-quality annotations for Doublets 2 and 4.
+- Count tables and imaging-quality annotations for Doublets 2 and 4.
 - MiXCR AIRR exports, paired heavy/light-chain annotations, and the Change-O germline-alignment table.
 - Index-sort CSVs and the Sp55 annotation lookup.
-- Preserved manuscript expression/coordinate checkpoints, reference SHM tables, and saved individual plot exports.
+- Preserved manuscript checkpoints, SHM tables, and plot references.
 
-FASTQs, alignment reference indices, and a complete BASIC/IgBLAST/Change-O reconstruction pipeline are outside this bundle. The paired `UniqueClones` table is a supplied input. These boundaries must remain explicit in any data availability statement.
+These are all required inputs for the packaged count-matrix/AIRR-table workflows. FASTQs, alignment indices, and a complete BASIC/IgBLAST/Change-O reconstruction pipeline are outside the bundle. The paired UniqueClones table is supplied as an input. Atlas, SLE, and other non-sequencing experiments are outside the author-approved scope. GEO GSE351507 is the sequencing accession, not a verified replacement for this auxiliary bundle.
+
+To rebuild the archive from an unchanged local data directory, run `python scripts/build_data_bundle.py ../Synapse-seq_Doublets_data_20261020.tar.gz`.
 
 For the tested numerical environment and full-analysis commands, see `ENVIRONMENT.md` and `analysis/README.md`.

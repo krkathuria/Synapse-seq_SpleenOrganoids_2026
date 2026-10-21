@@ -32,7 +32,7 @@ The command deliberately executes the final plotting blocks after loading `data/
 ## Full analysis order
 
 Automated command from the repository root: `python analysis/run_full_analysis.py`.
-It checks the complete data manifest before starting, runs all eight notebooks and the R calculation in the order below, and saves executed copies under `results/full_validation/`. Run it on a fresh extracted data bundle because intermediate files are regenerated. Install the R packages separately as described in the root README.
+It checks the complete data manifest before starting, runs all eight notebooks and the R calculation in the order below, and saves executed copies under `results/full_validation/`. Run it on a fresh extracted data bundle because intermediate files are regenerated. Install the R packages separately as described in [`ENVIRONMENT.md`](../ENVIRONMENT.md#r-calculation).
 
 1. Doublets 2 Step1, then Doublets 2 Treg-B.
 2. Doublets 4 Step1, then Doublets 4 Step2.

@@ -16,6 +16,7 @@
 - [x] Make the main analysis repository public at the author's request; use that single repository in README and STAR Methods.
 - [ ] Atlas, SLE, and other non-sequencing workflows are outside the current author-approved scope.
 - [ ] Select a license and final citation/archive identifiers.
-- [ ] Publish the large data archive at a persistent download location and add its URL.
+- [x] Upload all 18 data parts and three companion files to the GitHub release; verify sizes and server-side SHA-256 digests.
+- [x] Execute all eight final cleaned notebooks and R together in an isolated data copy; verify fresh outputs.
 - [x] Make the validated code publicly accessible.
-- [ ] Finish and publish the complete verified data release.
+- [x] Publish the complete verified data release.

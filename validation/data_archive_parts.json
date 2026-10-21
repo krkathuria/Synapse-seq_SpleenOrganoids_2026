@@ -13,24 +13,84 @@
       "sha256": "ec214d9d9342ee3b0d11ad9578e3aa59c1ef4369d44f4fdeb4d5209b1a8a250e"
     },
     {
-      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part03",
-      "bytes": 2000000000,
-      "sha256": "b71bfb708c633b9ddbd43a352b3d6027ac53b816c9e5b4dc233d86714b6cd10a"
+      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part03.001",
+      "bytes": 500000000,
+      "sha256": "7b01470828e01b4d15c61656eedc84df42d5849fa5179aaa344ef1790124584b"
     },
     {
-      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part04",
-      "bytes": 2000000000,
-      "sha256": "cf66b5e6b817d773907b99459cf28d09f416beb01152a586ec21f8de74d165c5"
+      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part03.002",
+      "bytes": 500000000,
+      "sha256": "4c1215439411ec8e57b21a1d10ee9ce27252a9d421d49a3bfbf374c490d367ef"
     },
     {
-      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part05",
-      "bytes": 2000000000,
-      "sha256": "9ece7006a19bfb33ebcdbb8ad4621ff06439d5e96b04202f68b8059971ddd21a"
+      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part03.003",
+      "bytes": 500000000,
+      "sha256": "d89eb065f3c209748528fae489673585b37cc71f87c0a0f3676933a0b49d76fc"
     },
     {
-      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part06",
-      "bytes": 1720414184,
-      "sha256": "8feeea03fb56a7c2a1737cf011e079e3ae953c85aaaee1e810050aa471709555"
+      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part03.004",
+      "bytes": 500000000,
+      "sha256": "f639a560d840f619a789eea127fee1ac5e6ac1d820e9df36447d25a43ea96445"
+    },
+    {
+      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part04.001",
+      "bytes": 500000000,
+      "sha256": "4a1a3e58979c403a16b5ab7e6c4cd8c8c44701a8678265eac75a4adea4ce0516"
+    },
+    {
+      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part04.002",
+      "bytes": 500000000,
+      "sha256": "36fb4607ea00dd39b48187e7dc5d065d62c6d08c973e36e5e809e5ea2fade335"
+    },
+    {
+      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part04.003",
+      "bytes": 500000000,
+      "sha256": "720d46d8d344753bd527b00404c76609955d91d42a54ba7031290d3637559cbf"
+    },
+    {
+      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part04.004",
+      "bytes": 500000000,
+      "sha256": "45a85994547fd5a1e3724214e8a6bed9df8d8f52485f54ae2dbe44adff39e8f4"
+    },
+    {
+      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part05.001",
+      "bytes": 500000000,
+      "sha256": "76912bc43eaa56c931e42e490f68a7730145998b96eaaf44f9d5082941d5a2a0"
+    },
+    {
+      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part05.002",
+      "bytes": 500000000,
+      "sha256": "69a2301aee5e32a233d765909df3c691f7b1c975d211e8b086dd7ac57765ac62"
+    },
+    {
+      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part05.003",
+      "bytes": 500000000,
+      "sha256": "e5b1a748b0955d878a4cc4a05b63729ae38281329ae94b4c87dd1c7fae5bb7f0"
+    },
+    {
+      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part05.004",
+      "bytes": 500000000,
+      "sha256": "c6f59e3bcf418950bd80bbb39be98eeba36eab93f023a5dbe00d91a5ff2f2334"
+    },
+    {
+      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part06.001",
+      "bytes": 500000000,
+      "sha256": "ecf6c609ed3566e2aec87004235b94961b59ddbb650d542e6a3f85669835387e"
+    },
+    {
+      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part06.002",
+      "bytes": 500000000,
+      "sha256": "0713551a3178abe45698cfecb3ed7dd6ed5a877cab1be91b0857fe5458d04f59"
+    },
+    {
+      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part06.003",
+      "bytes": 500000000,
+      "sha256": "4dc0e7bffdfe1fc01238c4a0b16eec113adf361c8cef2412c2a45e4af3d0f47d"
+    },
+    {
+      "filename": "Synapse-seq_Doublets_data_20261020.tar.gz.part06.004",
+      "bytes": 220414184,
+      "sha256": "269f9138dcafcf1a7aa0b360b6d12e7bf4c5080c1cb50347abc5a2c0629ec6aa"
     }
   ]
 }
