@@ -6,37 +6,37 @@
   "cells": [
     {
       "cell": 3,
-      "seconds": 0.0,
+      "seconds": 0.001,
       "status": "passed",
       "error": null
     },
     {
       "cell": 4,
-      "seconds": 3.704,
+      "seconds": 15.896,
       "status": "passed",
       "error": null
     },
     {
       "cell": 5,
-      "seconds": 4.076,
+      "seconds": 8.784,
       "status": "passed",
       "error": null
     },
     {
       "cell": 7,
-      "seconds": 11.096,
+      "seconds": 10.822,
       "status": "passed",
       "error": null
     },
     {
       "cell": 8,
-      "seconds": 163.151,
+      "seconds": 163.459,
       "status": "passed",
       "error": null
     },
     {
       "cell": 10,
-      "seconds": 15.61,
+      "seconds": 16.095,
       "status": "passed",
       "error": null
     },
@@ -54,91 +54,91 @@
     },
     {
       "cell": 14,
-      "seconds": 1.402,
+      "seconds": 1.583,
       "status": "passed",
       "error": null
     },
     {
       "cell": 16,
-      "seconds": 0.153,
+      "seconds": 0.186,
       "status": "passed",
       "error": null
     },
     {
       "cell": 18,
-      "seconds": 0.23,
+      "seconds": 0.394,
       "status": "passed",
       "error": null
     },
     {
       "cell": 19,
-      "seconds": 0.06,
+      "seconds": 0.104,
       "status": "passed",
       "error": null
     },
     {
       "cell": 20,
-      "seconds": 1.712,
+      "seconds": 1.945,
       "status": "passed",
       "error": null
     },
     {
       "cell": 21,
-      "seconds": 0.189,
+      "seconds": 0.229,
       "status": "passed",
       "error": null
     },
     {
       "cell": 22,
-      "seconds": 0.181,
+      "seconds": 0.164,
       "status": "passed",
       "error": null
     },
     {
       "cell": 23,
-      "seconds": 0.068,
+      "seconds": 0.084,
       "status": "passed",
       "error": null
     },
     {
       "cell": 24,
-      "seconds": 0.177,
+      "seconds": 0.217,
       "status": "passed",
       "error": null
     },
     {
       "cell": 25,
-      "seconds": 1.441,
+      "seconds": 1.673,
       "status": "passed",
       "error": null
     },
     {
       "cell": 26,
-      "seconds": 0.006,
+      "seconds": 0.008,
       "status": "passed",
       "error": null
     },
     {
       "cell": 28,
-      "seconds": 0.004,
+      "seconds": 0.005,
       "status": "passed",
       "error": null
     },
     {
       "cell": 29,
-      "seconds": 0.165,
+      "seconds": 0.183,
       "status": "passed",
       "error": null
     },
     {
       "cell": 30,
-      "seconds": 0.003,
+      "seconds": 0.004,
       "status": "passed",
       "error": null
     },
     {
       "cell": 31,
-      "seconds": 0.483,
+      "seconds": 1.336,
       "status": "passed",
       "error": null
     },
@@ -150,31 +150,31 @@
     },
     {
       "cell": 33,
-      "seconds": 12.389,
+      "seconds": 12.079,
       "status": "passed",
       "error": null
     },
     {
       "cell": 34,
-      "seconds": 0.947,
+      "seconds": 1.004,
       "status": "passed",
       "error": null
     },
     {
       "cell": 35,
-      "seconds": 0.001,
+      "seconds": 0.002,
       "status": "passed",
       "error": null
     },
     {
       "cell": 37,
-      "seconds": 0.305,
+      "seconds": 0.326,
       "status": "passed",
       "error": null
     },
     {
       "cell": 39,
-      "seconds": 0.717,
+      "seconds": 1.011,
       "status": "passed",
       "error": null
     },
@@ -186,7 +186,7 @@
     },
     {
       "cell": 42,
-      "seconds": 1.201,
+      "seconds": 1.717,
       "status": "passed",
       "error": null
     },
@@ -198,7 +198,7 @@
     },
     {
       "cell": 44,
-      "seconds": 1.069,
+      "seconds": 1.079,
       "status": "passed",
       "error": null
     },
@@ -210,13 +210,13 @@
     },
     {
       "cell": 46,
-      "seconds": 0.812,
+      "seconds": 0.87,
       "status": "passed",
       "error": null
     },
     {
       "cell": 48,
-      "seconds": 0.218,
+      "seconds": 0.079,
       "status": "passed",
       "error": null
     }

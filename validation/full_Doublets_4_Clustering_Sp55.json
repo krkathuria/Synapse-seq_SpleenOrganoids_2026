@@ -1,30 +1,30 @@
 {
   "notebook": "Doublets_4_Clustering_Sp55.ipynb",
-  "source_sha256": "e424e77220e19e53f2441c792ae67cacae18616128293c321093742f1b55cd01",
+  "source_sha256": "70e43f42914b59b6a49317e135e9a0fe5587bbb1f494e242e5b4b3dd79b902e1",
   "mode": "full_notebook_with_explicit_checkpoint_figure_section",
   "status": "passed",
   "cells": [
     {
       "cell": 3,
-      "seconds": 0.015,
+      "seconds": 0.014,
       "status": "passed",
       "error": null
     },
     {
       "cell": 4,
-      "seconds": 3.398,
+      "seconds": 1.259,
       "status": "passed",
       "error": null
     },
     {
       "cell": 5,
-      "seconds": 1.757,
+      "seconds": 1.738,
       "status": "passed",
       "error": null
     },
     {
       "cell": 7,
-      "seconds": 0.394,
+      "seconds": 0.383,
       "status": "passed",
       "error": null
     },
@@ -36,13 +36,13 @@
     },
     {
       "cell": 11,
-      "seconds": 0.065,
+      "seconds": 0.06,
       "status": "passed",
       "error": null
     },
     {
       "cell": 13,
-      "seconds": 0.147,
+      "seconds": 0.158,
       "status": "passed",
       "error": null
     },
@@ -54,37 +54,37 @@
     },
     {
       "cell": 16,
-      "seconds": 13.471,
+      "seconds": 3.328,
       "status": "passed",
       "error": null
     },
     {
       "cell": 17,
-      "seconds": 0.169,
+      "seconds": 0.239,
       "status": "passed",
       "error": null
     },
     {
       "cell": 19,
-      "seconds": 3.752,
+      "seconds": 3.834,
       "status": "passed",
       "error": null
     },
     {
       "cell": 20,
-      "seconds": 0.168,
+      "seconds": 0.293,
       "status": "passed",
       "error": null
     },
     {
       "cell": 22,
-      "seconds": 0.076,
+      "seconds": 0.052,
       "status": "passed",
       "error": null
     },
     {
       "cell": 23,
-      "seconds": 0.236,
+      "seconds": 0.244,
       "status": "passed",
       "error": null
     },
@@ -102,67 +102,67 @@
     },
     {
       "cell": 27,
-      "seconds": 0.172,
+      "seconds": 0.171,
       "status": "passed",
       "error": null
     },
     {
       "cell": 28,
-      "seconds": 0.031,
+      "seconds": 0.03,
       "status": "passed",
       "error": null
     },
     {
       "cell": 30,
-      "seconds": 68.225,
+      "seconds": 21.609,
       "status": "passed",
       "error": null
     },
     {
       "cell": 32,
-      "seconds": 0.237,
+      "seconds": 0.257,
       "status": "passed",
       "error": null
     },
     {
       "cell": 33,
-      "seconds": 0.036,
+      "seconds": 0.112,
       "status": "passed",
       "error": null
     },
     {
       "cell": 35,
-      "seconds": 0.368,
+      "seconds": 0.379,
       "status": "passed",
       "error": null
     },
     {
       "cell": 37,
-      "seconds": 0.139,
+      "seconds": 0.14,
       "status": "passed",
       "error": null
     },
     {
       "cell": 38,
-      "seconds": 0.445,
+      "seconds": 0.456,
       "status": "passed",
       "error": null
     },
     {
       "cell": 40,
-      "seconds": 0.91,
+      "seconds": 0.867,
       "status": "passed",
       "error": null
     },
     {
       "cell": 42,
-      "seconds": 0.674,
+      "seconds": 0.623,
       "status": "passed",
       "error": null
     },
     {
       "cell": 44,
-      "seconds": 0.233,
+      "seconds": 0.248,
       "status": "passed",
       "error": null
     },
@@ -186,115 +186,49 @@
     },
     {
       "cell": 49,
-      "seconds": 3.148,
+      "seconds": 2.913,
       "status": "passed",
       "error": null
     },
     {
       "cell": 50,
-      "seconds": 0.304,
+      "seconds": 0.159,
       "status": "passed",
       "error": null
     },
     {
       "cell": 51,
-      "seconds": 0.152,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 52,
-      "seconds": 0.566,
+      "seconds": 0.595,
       "status": "passed",
       "error": null
     },
     {
       "cell": 53,
-      "seconds": 0.039,
+      "seconds": 0.364,
+      "status": "passed",
+      "error": null
+    },
+    {
+      "cell": 54,
+      "seconds": 0.121,
       "status": "passed",
       "error": null
     },
     {
       "cell": 55,
-      "seconds": 0.275,
+      "seconds": 0.105,
       "status": "passed",
       "error": null
     },
     {
       "cell": 56,
-      "seconds": 0.111,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 57,
-      "seconds": 0.048,
+      "seconds": 0.381,
       "status": "passed",
       "error": null
     },
     {
       "cell": 58,
-      "seconds": 0.1,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 59,
-      "seconds": 0.182,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 60,
-      "seconds": 0.358,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 62,
-      "seconds": 0.454,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 63,
-      "seconds": 0.049,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 64,
-      "seconds": 0.02,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 65,
-      "seconds": 0.037,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 66,
-      "seconds": 0.041,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 67,
-      "seconds": 0.044,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 68,
-      "seconds": 0.099,
-      "status": "passed",
-      "error": null
-    },
-    {
-      "cell": 69,
-      "seconds": 0.295,
+      "seconds": 0.06,
       "status": "passed",
       "error": null
     }

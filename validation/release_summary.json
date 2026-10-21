@@ -22,5 +22,11 @@
   "final_clean_figure_sections_passed": 5,
   "upstream_calculation_prefixes_unchanged": true,
   "public_information_page": "https://github.com/krkathuria/Synapse-seq_SpleenOrganoids_2026-info",
-  "analysis_repository_private": true
+  "analysis_repository_private": true,
+  "fresh_explicit_conda_numerical_install_passed": true,
+  "all_pip_full_Sp55_clustering_passed": false,
+  "exact_numerical_builds_required": true,
+  "final_clean_full_notebooks_passed": 8,
+  "final_clean_full_R_analysis_passed": true,
+  "private_data_download_available": false
 }

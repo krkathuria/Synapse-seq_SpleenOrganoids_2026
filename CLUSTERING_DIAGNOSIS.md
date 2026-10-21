@@ -52,3 +52,9 @@ The release Sp46 notebook now makes that copy explicitly. Its full clean-environ
 ## Evidence
 
 Local diagnostic scripts, before/after source copies, threshold experiments, cluster cross-tabulations, and execution logs are retained in `Code/.clustering_diagnosis_20261020/`. Compact numeric results are also copied into `results/validation_evidence/`, and the successful full executed Sp55 notebook is in `results/full_validation/`. These are diagnostic results, not replacements for the preserved manuscript checkpoints.
+
+## Numerical-build validation after publication cleanup
+
+A subsequent fresh all-pip installation completed the checkpoint figures but failed the Sp55 exact-membership guard during the full workflow. The SciPy version was still 1.11.2; its wheel used OpenBLAS 0.3.21.dev with pthreads, whereas the historical conda-forge SciPy build used OpenBLAS 0.3.23 with OpenMP. A controlled run changed only the SciPy package to the historical build and restored exact memberships. The final source code and all analysis parameters were unchanged.
+
+The release now supplies `conda-numerics-osx-arm64.txt` and a tested installation sequence in `ENVIRONMENT.md`. A new isolated installation of those numerical binaries plus the pinned Python packages completed all eight final notebooks and passed the separate saved-object comparisons. This addresses binary-build reproducibility on the tested macOS ARM64 platform; other platforms remain unvalidated.

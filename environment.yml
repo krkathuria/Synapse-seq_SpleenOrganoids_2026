@@ -1,3 +1,5 @@
+# Generic checkpoint-figure environment. For exact fresh clustering on macOS ARM64,
+# follow ENVIRONMENT.md and conda-numerics-osx-arm64.txt instead.
 name: synapse-seq
 channels:
   - conda-forge

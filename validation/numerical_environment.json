@@ -1,0 +1,33 @@
+{
+  "platform": "macOS ARM64",
+  "python": "3.11.8",
+  "scipy": "1.11.2",
+  "scipy_conda_build": "py311h93d07a4_0",
+  "scipy_blas": {
+    "library": "OpenBLAS",
+    "version": "0.3.23",
+    "threading": "openmp",
+    "architecture": "VORTEX"
+  },
+  "numpy": "1.24.4",
+  "numpy_distribution": "PyPI wheel",
+  "numpy_blas": {
+    "library": "OpenBLAS",
+    "version": "0.3.21",
+    "threading": "pthreads",
+    "architecture": "armv8"
+  },
+  "scipy_all_pip_build": {
+    "library": "OpenBLAS",
+    "version": "0.3.21.dev",
+    "threading": "pthreads",
+    "Sp55_exact_membership_guard": "failed"
+  },
+  "controlled_change_only_scipy_to_historical_build": "full Sp55 notebook passed",
+  "fresh_explicit_conda_install": "passed",
+  "fresh_pip_install": "passed",
+  "pip_check": "passed",
+  "final_eight_notebooks": "passed",
+  "original_source_calculations_changed": false,
+  "other_platforms_tested": false
+}

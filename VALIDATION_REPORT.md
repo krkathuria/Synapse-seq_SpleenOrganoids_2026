@@ -1,4 +1,4 @@
-> Historical execution record. The final publication cleanup and current assembled-panel validation are documented in [PUBLICATION_REVIEW.md](PUBLICATION_REVIEW.md), which supersedes earlier plot counts, coverage, and upload-readiness statements below. Full-run evidence applies to the unchanged upstream calculations; current figure-run evidence records the final source hashes.
+> Historical execution record. The final publication cleanup and current assembled-panel validation are documented in [PUBLICATION_REVIEW.md](PUBLICATION_REVIEW.md), which supersedes earlier plot counts, coverage, and upload-readiness statements below. All eight final cleaned notebooks have since passed together in the tested numerical environment; current full-run and figure-run evidence records the final source hashes. Follow [ENVIRONMENT.md](ENVIRONMENT.md) for the exact tested installation.
 
 # Local reproduction report — 20 October 2026
 

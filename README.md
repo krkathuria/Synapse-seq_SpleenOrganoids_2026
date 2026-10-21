@@ -25,14 +25,19 @@ The final isolated rerun completed all eight notebooks and the R analysis. After
 
 ## Environment
 
+For the tested full workflow on **macOS ARM64**, install the exact numerical builds:
+
 ```bash
-conda env create -f environment.yml
+conda create --yes --name synapse-seq --file conda-numerics-osx-arm64.txt
 conda activate synapse-seq
+python -m pip install --force-reinstall --no-deps numpy==1.24.4
+python -m pip install -r requirements-tested-macos-arm64.txt
+python -m pip check
 ```
 
-The original notebook outputs recorded Scanpy 1.9.4 and igraph 0.10.6. Python 3.11.8, harmonypy 0.0.9, and leidenalg 0.10.1 are retained. The release uses statannotations 0.7.2 because the historical 0.5.0 package declares an incompatible Seaborn requirement. The R analysis additionally requires R 4.4.2 with `airr` 1.6.1, `shazam` 1.3.1, and `dplyr` 1.2.0; these are separate from the Python environment. The environment definition is not a cross-platform lockfile.
+Read [`ENVIRONMENT.md`](ENVIRONMENT.md) before installation. The historical SciPy 1.11.2 conda-forge build and its OpenBLAS dependency are necessary for exact fresh Sp55 clustering in the tested setup; the all-pip build with the same version number failed the membership check. A clean installation of the specified environment passed all eight final notebooks. The generic `environment.yml` and all-pip setup are validated for checkpoint figure rendering only.
 
-The Python dependencies were installed successfully into a fresh Python 3.11.8 virtual environment on macOS ARM64, passed `pip check`, and executed all five figure sections. [`requirements-tested-macos-arm64.txt`](requirements-tested-macos-arm64.txt) records every package in that installation. This validates the Python package set on that platform; Conda's environment-creation command itself and other platforms were not tested.
+R is separate and requires R 4.4.2 with `airr` 1.6.1, `shazam` 1.3.1, and `dplyr` 1.2.0 for the tested mutation analysis. A fresh R installation and other platforms were not tested. statannotations 0.7.2 resolves the historical package's Seaborn dependency conflict.
 
 ## Reproduce the manuscript figure sections
 

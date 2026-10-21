@@ -1,0 +1,484 @@
+[
+  {
+    "generated": "results/Doublets_2_Treg-B/barplot_Fig_S3_SP17_ArtDoub.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250301/barplot_Fig_S3_SP17_ArtDoub.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250301/barplot_Fig_S3_SP17_ArtDoub.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_2_Treg-B/barplot_Fig_S3_SP17_RealDoub.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250301/barplot_Fig_S3_SP17_RealDoub.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250301/barplot_Fig_S3_SP17_RealDoub.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_2_Treg-B/barplot_Fig_S3_SP17_singlet.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250301/barplot_Fig_S3_SP17_singlet.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250301/barplot_Fig_S3_SP17_singlet.pdf",
+      "data/manuscript_plot_references/figure_drafts_20250103/barplot_Fig_S3_SP17_singlet.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_2_Treg-B/dotplot_Fig_S3_SP17.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20261009/dotplot_Fig_S3_SP17.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20261009/dotplot_Fig_S3_SP17.pdf",
+      "data/manuscript_plot_references/figure_drafts_20260628/dotplot_Fig_S3_SP17.pdf",
+      "data/manuscript_plot_references/figure_drafts_20260611/dotplot_Fig_S3_SP17.pdf",
+      "data/manuscript_plot_references/figure_drafts_20260322/dotplot_Fig_S3_SP17.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_2_Treg-B/umap_Fig_S3_SP17_leiden.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_S3_SP17_leiden.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_S3_SP17_leiden.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_2_Treg-B/umap_Fig_S3_SP17_leiden_ArtDoub.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_S3_SP17_leiden_ArtDoub.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_S3_SP17_leiden_ArtDoub.pdf",
+      "data/manuscript_plot_references/figure_drafts_20250301/umap_Fig_S3_SP17_leiden_ArtDoub.pdf",
+      "data/manuscript_plot_references/figure_drafts_20250103/umap_Fig_S3_SP17_leiden_ArtDoub.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_2_Treg-B/umap_Fig_S3_SP17_leiden_RealDoub.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_S3_SP17_leiden_RealDoub.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_S3_SP17_leiden_RealDoub.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_2_Treg-B/umap_Fig_S3_SP17_leiden_Singlets.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_S3_SP17_leiden_Singlets.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_S3_SP17_leiden_Singlets.pdf",
+      "data/manuscript_plot_references/figure_drafts_20250301/umap_Fig_S3_SP17_leiden_Singlets.pdf",
+      "data/manuscript_plot_references/figure_drafts_20250103/umap_Fig_S3_SP17_leiden_Singlets.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sp46/barplot_Fig_S3_SP46_ArtDoub.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250301/barplot_Fig_S3_SP46_ArtDoub.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250301/barplot_Fig_S3_SP46_ArtDoub.pdf",
+      "data/manuscript_plot_references/figure_drafts_20250103/barplot_Fig_S3_SP46_ArtDoub.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sp46/barplot_Fig_S3_SP46_RealDoub.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250301/barplot_Fig_S3_SP46_RealDoub.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250301/barplot_Fig_S3_SP46_RealDoub.pdf",
+      "data/manuscript_plot_references/figure_drafts_20250103/barplot_Fig_S3_SP46_RealDoub.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sp46/barplot_Fig_S3_SP46_singlet.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250301/barplot_Fig_S3_SP46_singlet.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250301/barplot_Fig_S3_SP46_singlet.pdf",
+      "data/manuscript_plot_references/figure_drafts_20250103/barplot_Fig_S3_SP46_singlet.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sp46/dotplot_Fig_S3_SP46.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20261009/dotplot_Fig_S3_SP46.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20261009/dotplot_Fig_S3_SP46.pdf",
+      "data/manuscript_plot_references/figure_drafts_20260628/dotplot_Fig_S3_SP46.pdf",
+      "data/manuscript_plot_references/figure_drafts_20260611/dotplot_Fig_S3_SP46.pdf",
+      "data/manuscript_plot_references/figure_drafts_20260322/dotplot_Fig_S3_SP46.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sp46/umap_Fig_S3_SP46_leiden.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_S3_SP46_leiden.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_S3_SP46_leiden.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sp46/umap_Fig_S3_SP46_leiden_ArtDoub.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_S3_SP46_leiden_ArtDoub.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_S3_SP46_leiden_ArtDoub.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sp46/umap_Fig_S3_SP46_leiden_RealDoub.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_S3_SP46_leiden_RealDoub.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_S3_SP46_leiden_RealDoub.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sp46/umap_Fig_S3_SP46_leiden_Singlets.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_S3_SP46_leiden_Singlets.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_S3_SP46_leiden_Singlets.pdf",
+      "data/manuscript_plot_references/figure_drafts_20250301/umap_Fig_S3_SP46_leiden_Singlets.pdf",
+      "data/manuscript_plot_references/figure_drafts_20250103/umap_Fig_S3_SP46_leiden_Singlets.pdf",
+      "data/manuscript_plot_references/figure_drafts_202410/umap_Fig_S3_SP46_leiden_Singlets.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sp55/barplot_Fig_2_ArtDoub.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/barplot_Fig_2_ArtDoub.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250401/barplot_Fig_2_ArtDoub.pdf",
+      "data/manuscript_plot_references/figure_drafts_20250301/barplot_Fig_2_ArtDoub.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sp55/barplot_Fig_2_RealDoub.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/barplot_Fig_2_RealDoub.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250401/barplot_Fig_2_RealDoub.pdf",
+      "data/manuscript_plot_references/figure_drafts_20250301/barplot_Fig_2_RealDoub.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sp55/barplot_Fig_2_singlet.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/barplot_Fig_2_singlet.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250401/barplot_Fig_2_singlet.pdf",
+      "data/manuscript_plot_references/figure_drafts_20250301/barplot_Fig_2_singlet.pdf",
+      "data/manuscript_plot_references/figure_drafts_20250103/barplot_Fig_2_singlet.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sp55/barplot_Fig_S4_leiden_isotype.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250301/barplot_Fig_S4_leiden_isotype.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250301/barplot_Fig_S4_leiden_isotype.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sp55/barplot_Fig_S4_stimulation_leiden.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250301/barplot_Fig_S4_stimulation_leiden.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250301/barplot_Fig_S4_stimulation_leiden.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sp55/dotplot_Fig_2_SP55.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20261009/dotplot_Fig_2_SP55.pdf",
+    "same_size": false,
+    "generated_size": [
+      817,
+      490
+    ],
+    "reference_size": [
+      661,
+      490
+    ],
+    "pixel_exact": false,
+    "exact_matching_references": []
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sp55/dotplot_Fig_S4_SP55.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20261009/dotplot_Fig_S4_SP55.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20261009/dotplot_Fig_S4_SP55.pdf",
+      "data/manuscript_plot_references/figure_drafts_20260628/dotplot_Fig_S4_SP55.pdf",
+      "data/manuscript_plot_references/figure_drafts_20260611/dotplot_Fig_S4_SP55.pdf",
+      "data/manuscript_plot_references/figure_drafts_20260322/dotplot_Fig_S4_SP55.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sp55/umap_Fig_2_SP55_leiden.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_2_SP55_leiden.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_2_SP55_leiden.pdf",
+      "data/manuscript_plot_references/figure_drafts_20250301/umap_Fig_2_SP55_leiden.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sp55/umap_Fig_2_SP55_leiden_ArtDoub.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_2_SP55_leiden_ArtDoub.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_2_SP55_leiden_ArtDoub.pdf",
+      "data/manuscript_plot_references/figure_drafts_20250301/umap_Fig_2_SP55_leiden_ArtDoub.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sp55/umap_Fig_2_SP55_leiden_RealDoub.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_2_SP55_leiden_RealDoub.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_2_SP55_leiden_RealDoub.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sp55/umap_Fig_2_SP55_leiden_Singlets.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_2_SP55_leiden_Singlets.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_2_SP55_leiden_Singlets.pdf",
+      "data/manuscript_plot_references/figure_drafts_20250301/umap_Fig_2_SP55_leiden_Singlets.pdf",
+      "data/manuscript_plot_references/figure_drafts_20250103/umap_Fig_2_SP55_leiden_Singlets.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sp55/violinplot_Fig_S4_sortedpop_shm.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20261009/violinplot_Fig_S4_sortedpop_shm.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20261009/violinplot_Fig_S4_sortedpop_shm.pdf",
+      "data/manuscript_plot_references/figure_drafts_20260628/violinplot_Fig_S4_sortedpop_shm.pdf",
+      "data/manuscript_plot_references/figure_drafts_20260611/violinplot_Fig_S4_sortedpop_shm.pdf",
+      "data/manuscript_plot_references/figure_drafts_20260322/violinplot_Fig_S4_sortedpop_shm.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts/SP46_Spheromer_Gating.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20261009/SP46_Spheromer_Gating.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20261009/SP46_Spheromer_Gating.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts/barplot_Fig_4_Sphr_SP46_sortedpop_isotype.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/barplot_Fig_4_Sphr_SP46_sortedpop_isotype.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250401/barplot_Fig_4_Sphr_SP46_sortedpop_isotype.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts/barplot_Fig_4_Sphr_SP46_sortedpop_leiden.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/barplot_Fig_4_Sphr_SP46_sortedpop_leiden.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250401/barplot_Fig_4_Sphr_SP46_sortedpop_leiden.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts/dotplot_Fig_4_Sphr_SP46.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20261009/dotplot_Fig_4_Sphr_SP46.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20261009/dotplot_Fig_4_Sphr_SP46.pdf",
+      "data/manuscript_plot_references/figure_drafts_20260628/dotplot_Fig_4_Sphr_SP46.pdf",
+      "data/manuscript_plot_references/figure_drafts_20260611/dotplot_Fig_4_Sphr_SP46.pdf",
+      "data/manuscript_plot_references/figure_drafts_20260322/dotplot_Fig_4_Sphr_SP46.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts/umap_Fig_4_Sphr_SP46_leiden.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_4_Sphr_SP46_leiden.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_4_Sphr_SP46_leiden.pdf",
+      "data/manuscript_plot_references/figure_drafts_20250301/umap_Fig_4_Sphr_SP46_leiden.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts/violinplot_Fig_4_sortedpop_clonalexpansion.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20261009/violinplot_Fig_4_sortedpop_clonalexpansion.pdf",
+    "same_size": true,
+    "pixel_exact": false,
+    "mean_absolute_pixel_difference": 1.371383,
+    "changed_pixel_fraction": 0.011062,
+    "exact_matching_references": []
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp46_larger_fonts/violinplot_Fig_4_sortedpop_shm.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20261009/violinplot_Fig_4_sortedpop_shm.pdf",
+    "same_size": true,
+    "pixel_exact": false,
+    "mean_absolute_pixel_difference": 0.593148,
+    "changed_pixel_fraction": 0.009707,
+    "exact_matching_references": []
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp55_larger_fonts/SP55_Spheromer_Gating.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20261009/SP55_Spheromer_Gating.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20261009/SP55_Spheromer_Gating.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp55_larger_fonts/barplot_Fig_S6_Sphr_SP55_sortedpop_isotype.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/barplot_Fig_S6_Sphr_SP55_sortedpop_isotype.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250401/barplot_Fig_S6_Sphr_SP55_sortedpop_isotype.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp55_larger_fonts/barplot_Fig_S6_Sphr_SP55_sortedpop_leiden.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/barplot_Fig_S6_Sphr_SP55_sortedpop_leiden.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250401/barplot_Fig_S6_Sphr_SP55_sortedpop_leiden.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp55_larger_fonts/umap_Fig_S6_Sphr_SP55_leiden.pdf",
+    "latest_reference": "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_S6_Sphr_SP55_leiden.pdf",
+    "same_size": true,
+    "pixel_exact": true,
+    "mean_absolute_pixel_difference": 0.0,
+    "changed_pixel_fraction": 0.0,
+    "exact_matching_references": [
+      "data/manuscript_plot_references/figure_drafts_20250401/umap_Fig_S6_Sphr_SP55_leiden.pdf"
+    ]
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp55_larger_fonts/violinplot_Fig_S6_sortedpop_clonalexpansion.pdf",
+    "latest_reference": "data/manuscript_plot_references/reviewer_figure_drafts_20260127/violinplot_Fig_S6_sortedpop_clonalexpansion.pdf",
+    "same_size": true,
+    "pixel_exact": false,
+    "mean_absolute_pixel_difference": 0.304275,
+    "changed_pixel_fraction": 0.005608,
+    "exact_matching_references": []
+  },
+  {
+    "generated": "results/Doublets_4_Clustering_Sphr_HA_PRTN3_Sp55_larger_fonts/violinplot_Fig_S6_sortedpop_shm.pdf",
+    "latest_reference": "data/manuscript_plot_references/reviewer_figure_drafts_20260127/violinplot_Fig_S6_sortedpop_shm.pdf",
+    "same_size": true,
+    "pixel_exact": false,
+    "mean_absolute_pixel_difference": 0.615594,
+    "changed_pixel_fraction": 0.011821,
+    "exact_matching_references": []
+  }
+]

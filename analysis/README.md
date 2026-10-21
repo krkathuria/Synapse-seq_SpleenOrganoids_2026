@@ -2,6 +2,8 @@
 
 Run notebooks with this `analysis/` directory as their working directory. All source outputs and execution counts remain cleared; validation uses separate executed copies.
 
+Before running, install the tested numerical environment described in [`../ENVIRONMENT.md`](../ENVIRONMENT.md). Exact fresh clustering was validated on macOS ARM64 with the specified SciPy/OpenBLAS builds; package version numbers alone are insufficient. All eight final cleaned notebooks and the R analysis passed together using the packaged inputs in that environment.
+
 | Workflow | Inputs | Execution result |
 | --- | --- | --- |
 | Doublets 2 Step1 | Gene-count table and interaction-score workbook | Completed with the author-approved historical ERCC <0.3; all 3,363 historical cells are retained. |

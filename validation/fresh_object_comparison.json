@@ -70,7 +70,7 @@
     "HVG_differences": 0,
     "cluster_ARI": 1.0,
     "named_labels_identical": true,
-    "UMAP_max_difference": 5.747382164001465,
+    "UMAP_max_difference": 8.460036277770996,
     "expression_and_partition_match": true
   },
   {

@@ -12,43 +12,43 @@
     },
     {
       "cell": 4,
-      "seconds": 3.091,
+      "seconds": 1.452,
       "status": "passed",
       "error": null
     },
     {
       "cell": 5,
-      "seconds": 2.17,
+      "seconds": 1.872,
       "status": "passed",
       "error": null
     },
     {
       "cell": 7,
-      "seconds": 0.403,
+      "seconds": 0.388,
       "status": "passed",
       "error": null
     },
     {
       "cell": 9,
-      "seconds": 0.124,
+      "seconds": 0.135,
       "status": "passed",
       "error": null
     },
     {
       "cell": 11,
-      "seconds": 21.568,
+      "seconds": 16.151,
       "status": "passed",
       "error": null
     },
     {
       "cell": 12,
-      "seconds": 0.627,
+      "seconds": 0.642,
       "status": "passed",
       "error": null
     },
     {
       "cell": 14,
-      "seconds": 13.618,
+      "seconds": 12.442,
       "status": "passed",
       "error": null
     }
